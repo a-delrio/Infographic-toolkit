@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="744.09448819"
-   height="1052.3622047"
+   width="744.09448"
+   height="1052.3622"
    id="svg12987"
    version="1.1"
    inkscape:version="0.48.4 r9939"
@@ -24,12 +24,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="853.73702"
-     inkscape:cy="773.62431"
+     inkscape:zoom="0.23519054"
+     inkscape:cx="949.38433"
+     inkscape:cy="1075.5288"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      inkscape:window-width="1440"
      inkscape:window-height="838"
      inkscape:window-x="-8"
@@ -48,7 +48,26 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
      inkscape:snap-page="true"
-     inkscape:snap-global="true" />
+     inkscape:snap-global="false"
+     inkscape:snap-grids="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3028"
+       empspacing="12"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       dotted="false"
+       units="mm"
+       empcolor="#ff0500"
+       empopacity="0.26666667"
+       color="#0000ff"
+       opacity="0.05490196"
+       spacingx="17.5mm"
+       spacingy="24.75mm"
+       originx="0px"
+       originy="0mm" />
+  </sodipodi:namedview>
   <metadata
      id="metadata12992">
     <rdf:RDF>
@@ -57,61 +76,90 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(0,3.972441e-5)">
     <text
        xml:space="preserve"
-       style="font-size:49.98010635px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Oblique"
-       x="183.41315"
-       y="-37.088383"
+       style="font-size:49.46577835px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Oblique"
+       x="183.60733"
+       y="60.741764"
        id="text12995"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan12997"
-         x="183.41315"
-         y="-37.088383"
+         x="183.60733"
+         y="60.741764"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bello Pro;-inkscape-font-specification:Bello Pro">Infographic toolbox</tspan></text>
-    <g
-       id="g13827"
-       transform="translate(-280.2669,-116.37777)">
-      <rect
-         y="-358.35211"
-         x="534.64288"
-         height="180"
-         width="315"
-         id="rect13800"
-         style="fill:#f2f2f2;fill-opacity:1;stroke:none" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text12995-1-4"
-         y="-289.24796"
-         x="566.61725"
-         style="font-size:27.39118195px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Oblique"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
-           y="-289.24796"
-           x="566.61725"
-           id="tspan12997-7-0"
-           sodipodi:role="line">Standard business card</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:13.24321651px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Oblique"
-         x="775.22565"
-         y="-227.13869"
-         id="text13823"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan13825"
-           x="775.22565"
-           y="-227.13869"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB">3.5&quot; by 2&quot;</tspan></text>
-    </g>
+    <rect
+       style="fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:5, 5;stroke-dashoffset:0"
+       id="rect3858"
+       width="744.09448"
+       height="1052.3622"
+       x="744.09448"
+       y="-2104.7244"
+       transform="translate(0,-3.972441e-5)" />
+    <rect
+       style="fill:#e5e5e5;fill-opacity:1;stroke:none"
+       id="rect13800"
+       width="315"
+       height="180"
+       x="496.06299"
+       y="-526.18115" />
+    <text
+       xml:space="preserve"
+       style="font-size:27.39118195px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Oblique"
+       x="528.03735"
+       y="-457.077"
+       id="text12995-1-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12997-7-0"
+         x="528.03735"
+         y="-457.077"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB">Standard business card</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text13823"
+       y="-394.96774"
+       x="736.64575"
+       style="font-size:13.24321651px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Oblique"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
+         y="-394.96774"
+         x="736.64575"
+         id="tspan13825"
+         sodipodi:role="line">3.5&quot; by 2&quot;</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3913"
+       y="-1877.9088"
+       x="1010.4781"
+       style="font-size:60.0941391px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Oblique"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
+         y="-1877.9088"
+         x="1010.4781"
+         id="tspan3915"
+         sodipodi:role="line">A4 page</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:29.05459404px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Oblique"
+       x="1249.6361"
+       y="-1168.3489"
+       id="text3917"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3919"
+         x="1249.6361"
+         y="-1168.3489"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB">210 x 297 mm</tspan></text>
     <path
        style="fill:none;stroke:#808080;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0"
        d="m 672.91662,-1 c 0,0 28.78892,-18.821221 31.31473,-65.886838 2.5258,-47.065612 -31.31473,-108.665352 -31.31473,-108.665352"
@@ -126,7 +174,7 @@
        sodipodi:cy="-181.92354"
        sodipodi:rx="7.5"
        sodipodi:ry="7.5"
-       d="m 23.571428,-181.92354 a 7.5,7.5 0 1 1 -14.9999997,0 7.5,7.5 0 1 1 14.9999997,0 z"
+       d="m 23.571428,-181.92354 c 0,4.14214 -3.357864,7.5 -7.5,7.5 -4.142135,0 -7.4999997,-3.35786 -7.4999997,-7.5 0,-4.14213 3.3578647,-7.5 7.4999997,-7.5 4.142136,0 7.5,3.35787 7.5,7.5 z"
        transform="matrix(0.86675839,0,0,0.8667584,658.98657,-17.868435)" />
     <path
        sodipodi:nodetypes="czc"
@@ -184,7 +232,7 @@
        style="fill:none;stroke:#808080;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0" />
     <path
        transform="matrix(0,0.86675839,-0.8667584,0,760.96291,135.24139)"
-       d="m 23.571428,-181.92354 a 7.5,7.5 0 1 1 -14.9999997,0 7.5,7.5 0 1 1 14.9999997,0 z"
+       d="m 23.571428,-181.92354 c 0,4.14214 -3.357864,7.5 -7.5,7.5 -4.142135,0 -7.4999997,-3.35786 -7.4999997,-7.5 0,-4.14213 3.3578647,-7.5 7.4999997,-7.5 4.142136,0 7.5,3.35787 7.5,7.5 z"
        sodipodi:ry="7.5"
        sodipodi:rx="7.5"
        sodipodi:cy="-181.92354"
@@ -254,7 +302,7 @@
        sodipodi:cy="-181.92354"
        sodipodi:rx="7.5"
        sodipodi:ry="7.5"
-       d="m 23.571428,-181.92354 a 7.5,7.5 0 1 1 -14.9999997,0 7.5,7.5 0 1 1 14.9999997,0 z"
+       d="m 23.571428,-181.92354 c 0,4.14214 -3.357864,7.5 -7.5,7.5 -4.142135,0 -7.4999997,-3.35786 -7.4999997,-7.5 0,-4.14213 3.3578647,-7.5 7.4999997,-7.5 4.142136,0 7.5,3.35787 7.5,7.5 z"
        transform="matrix(0,0.86675839,-0.8667584,0,760.96291,564.55623)" />
     <path
        sodipodi:nodetypes="czc"
@@ -304,5 +352,72 @@
          x="792.35944"
          y="599.41638"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB">Icons</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:4.55278493999999960;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;fill-opacity:1"
+       id="path3034"
+       sodipodi:cx="372.04724"
+       sodipodi:cy="526.18109"
+       sodipodi:rx="620.07874"
+       sodipodi:ry="620.07874"
+       d="m 992.12598,526.18109 a 620.07874,620.07874 0 1 1 -1240.15747,0 620.07874,620.07874 0 1 1 1240.15747,0 z"
+       transform="matrix(1.0982289,0,0,1.0982289,-36.545836,-51.686286)" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0"
+       d="m 996.91172,797.33632 c 0,0 18.82118,28.789 65.88678,31.3148 47.0656,2.5258 108.6654,-31.3148 108.6654,-31.3148"
+       id="path13918-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 372.04724,526.18108 930.11816,0"
+       id="path3822"
+       inkscape:connector-curvature="0"
+       transform="translate(0,-3.972441e-5)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3824"
+       sodipodi:cx="372.04724"
+       sodipodi:cy="526.18109"
+       sodipodi:rx="62.007874"
+       sodipodi:ry="62.007874"
+       d="m 434.05511,526.18109 a 62.007874,62.007874 0 1 1 -124.01574,0 62.007874,62.007874 0 1 1 124.01574,0 z"
+       transform="translate(0,-3.972441e-5)" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0"
+       d="m 772.83228,-24.438038 c 0,0 33.97648,5.351495 67.4198,-27.861408 33.4433,-33.212905 49.66381,-101.598614 49.66381,-101.598614"
+       id="path13030-9-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czc" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3844"
+       y="-46.171776"
+       x="238.63687"
+       style="font-size:49.46577835px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Oblique"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bello Pro;-inkscape-font-specification:Bello Pro"
+         y="-46.171776"
+         x="238.63687"
+         id="tspan3846"
+         sodipodi:role="line">The toolsphere</tspan></text>
+    <path
+       style="fill:none;stroke:#cdff17;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:5, 5;stroke-dashoffset:0"
+       d="m -1209.1535,438.48419 c 0,0 124.0159,0 186.0237,0 62.00776,0 62.00776,-87.69685 124.01566,-87.69685 62.0079,0 62.00798,0 124.0158,0 62.00783,0 62.00783,87.69685 124.0157,87.69685 62.0079,0 62.0079,0 62.0079,0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czzzsc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:5, 5;stroke-dashoffset:0"
+       d="m -1209.1535,438.48419 c 0,0 0,87.69685 62.0079,87.69685 62.0079,0 248.03146,0 310.03936,0 62.0079,0 248.0315,-263.09055 248.0315,-263.09055"
+       id="path3854"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czzc" />
+    <path
+       style="fill:none;stroke:#238e02;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:5, 5;stroke-dashoffset:0"
+       d="m -1209.1535,438.48419 c 0,0 62.0079,87.69685 124.0158,87.69685 62.0079,0 10e-5,0 62.0079,0 62.00776,0 62.00776,-87.69685 124.01566,-87.69685 62.0079,0 0,0 62.0079,0 62.0079,0 62.0079,-87.69685 124.0157,-87.69685 62.0078,0 186.0236,0 186.0236,0"
+       id="path3856"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czzzzzc" />
   </g>
 </svg>
