@@ -498,16 +498,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.4125928"
-     inkscape:cx="1993.0672"
-     inkscape:cy="-1408.7734"
+     inkscape:zoom="0.29174717"
+     inkscape:cx="1605.6327"
+     inkscape:cy="-1563.8974"
      inkscape:document-units="px"
-     inkscape:current-layer="g15961"
+     inkscape:current-layer="layer5"
      showgrid="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="962"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="1440"
+     inkscape:window-height="878"
+     inkscape:window-x="1272"
+     inkscape:window-y="52"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
@@ -1686,41 +1686,6 @@
            id="tspan3919"
            sodipodi:role="line">210 x 297 mm</tspan></text>
     </g>
-    <g
-       id="g14977"
-       transform="translate(-3550.3412,4985.0383)">
-      <rect
-         style="fill:#e5e5e5;fill-opacity:1;stroke:none;display:inline"
-         id="rect3247"
-         width="851"
-         height="315"
-         x="5100.5381"
-         y="-1919.9005" />
-      <text
-         xml:space="preserve"
-         style="font-size:27.39118195px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans Oblique"
-         x="5616.8574"
-         y="-1809.0176"
-         id="text3249"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan3251"
-           x="5616.8574"
-           y="-1809.0176"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB">Facebook cover image</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text3253"
-         y="-1749.0046"
-         x="5787.2896"
-         style="font-size:13.24321651px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans Oblique"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
-           y="-1749.0046"
-           x="5787.2896"
-           id="tspan3255"
-           sodipodi:role="line">851 by 315 pixels</tspan></text>
-    </g>
     <text
        xml:space="preserve"
        style="font-size:24.48838234px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans Oblique"
@@ -2171,17 +2136,6 @@
          x="812.74689"
          y="628.36865"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB">inspirataion from: handdrawngoods.com/store/jolly-ui-hand-drawn-ui-kit/</tspan></text>
-    <path
-       sodipodi:nodetypes="cccc"
-       inkscape:connector-curvature="0"
-       id="path15000"
-       d="m 1444.5306,3484.4093 -18.3495,0 0,-571.811 18.3495,0"
-       style="display:inline;fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    <path
-       style="display:inline;fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 1426.1811,3160.6299 -186.0236,0 -62.0079,-62.0079 0,-2604.33068 -62.0079,-62.00788 -124.01572,0"
-       id="path15002"
-       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -19443,6 +19397,57 @@
           </g>
         </g>
       </g>
+    </g>
+    <g
+       style="display:inline"
+       id="g14977"
+       transform="translate(-3550.3412,4985.0383)">
+      <rect
+         style="fill:#e5e5e5;fill-opacity:1;stroke:none;display:inline"
+         id="rect3247"
+         width="851"
+         height="315"
+         x="5100.5381"
+         y="-1919.9005" />
+      <text
+         xml:space="preserve"
+         style="font-size:27.39118195px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans Oblique"
+         x="5616.8574"
+         y="-1809.0176"
+         id="text3249"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3251"
+           x="5616.8574"
+           y="-1809.0176"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB">Facebook cover image</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3253"
+         y="-1749.0046"
+         x="5787.2896"
+         style="font-size:13.24321651px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans Oblique"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
+           y="-1749.0046"
+           x="5787.2896"
+           id="tspan3255"
+           sodipodi:role="line">851 by 315 pixels</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g16021">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         d="m 1444.5306,3412.4292 -18.3495,0 0,-499.8309 18.3495,0"
+         id="path15000"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path15002"
+         d="m 1426.1811,3160.6299 -186.0236,0 -62.0079,-62.0079 0,-2604.33068 -62.0079,-62.00788 -124.01572,0"
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
     </g>
   </g>
   <g
