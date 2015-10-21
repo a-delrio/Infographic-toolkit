@@ -498,9 +498,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.29174717"
-     inkscape:cx="1605.6327"
-     inkscape:cy="-1563.8974"
+     inkscape:zoom="0.8251856"
+     inkscape:cx="1122.4847"
+     inkscape:cy="627.45271"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="true"
@@ -1710,24 +1710,6 @@
          x="811.84088"
          y="794.92078"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB">Useful page sizes</tspan></text>
-    <path
-       sodipodi:type="arc"
-       style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       id="path4108-1-9-71"
-       sodipodi:cx="868.11023"
-       sodipodi:cy="350.78738"
-       sodipodi:rx="62.007874"
-       sodipodi:ry="62.007874"
-       d="m 867.0594,412.78635 a 62.007874,62.007874 0 1 1 1.05083,0.009"
-       sodipodi:start="1.5877438"
-       sodipodi:end="7.8539816"
-       sodipodi:open="true"
-       transform="matrix(0.12095202,0,0,0.1209522,701.10268,389.85491)" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 806.10236,432.2834 186.02362,0"
-       id="path4233-27-7"
-       inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-size:24.48838234px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans Oblique"
@@ -1866,18 +1848,6 @@
        d="m 806.10236,742.32277 186.02362,0"
        id="path4233-27-33"
        inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-size:24.48838234px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans Oblique"
-       x="811.84088"
-       y="424.96802"
-       id="text4171-1-06"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4173-8-8"
-         x="811.84088"
-         y="424.96802"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB">Facebook default sizes</tspan></text>
     <path
        sodipodi:type="arc"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
@@ -19435,19 +19405,52 @@
            sodipodi:role="line">851 by 315 pixels</tspan></text>
     </g>
     <g
-       style="display:inline"
-       id="g16021">
+       id="g16053">
       <path
-         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-         d="m 1444.5306,3412.4292 -18.3495,0 0,-499.8309 18.3495,0"
-         id="path15000"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccc" />
+         transform="matrix(0.12095202,0,0,0.1209522,701.10268,389.85491)"
+         sodipodi:open="true"
+         sodipodi:end="7.8539816"
+         sodipodi:start="1.5877438"
+         d="m 867.0594,412.78635 c -34.24108,-0.58035 -61.52849,-28.80871 -60.94814,-63.04979 0.58036,-34.24109 28.80871,-61.5285 63.0498,-60.94814 34.24108,0.58035 61.52849,28.80871 60.94814,63.04979 -0.57341,33.83147 -28.16264,60.95705 -61.99897,60.95705"
+         sodipodi:ry="62.007874"
+         sodipodi:rx="62.007874"
+         sodipodi:cy="350.78738"
+         sodipodi:cx="868.11023"
+         id="path4108-1-9-71"
+         style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
+         sodipodi:type="arc" />
       <path
          inkscape:connector-curvature="0"
-         id="path15002"
-         d="m 1426.1811,3160.6299 -186.0236,0 -62.0079,-62.0079 0,-2604.33068 -62.0079,-62.00788 -124.01572,0"
+         id="path4233-27-7"
+         d="m 806.10236,432.2834 186.02362,0"
          style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4171-1-06"
+         y="424.96802"
+         x="811.84088"
+         style="font-size:24.48838234px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans Oblique"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
+           y="424.96802"
+           x="811.84088"
+           id="tspan4173-8-8"
+           sodipodi:role="line">Facebook default sizes</tspan></text>
+      <g
+         id="g16021"
+         style="display:inline">
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="path15000"
+           d="m 1444.5306,3412.4292 -18.3495,0 0,-499.8309 18.3495,0"
+           style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+           d="m 1426.1811,3160.6299 -186.0236,0 -62.0079,-62.0079 0,-2604.33068 -62.0079,-62.00788 -124.01572,0"
+           id="path15002"
+           inkscape:connector-curvature="0" />
+      </g>
     </g>
   </g>
   <g
