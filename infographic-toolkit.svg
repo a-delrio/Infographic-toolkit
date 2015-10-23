@@ -14,7 +14,7 @@
    height="1052.3622"
    id="svg12987"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="infographic-toolkit.svg">
   <defs
      id="defs12989">
@@ -498,16 +498,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.8251856"
-     inkscape:cx="1122.4847"
-     inkscape:cy="627.45271"
+     inkscape:zoom="0.4125928"
+     inkscape:cx="2671.7245"
+     inkscape:cy="-1205.3915"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="true"
-     inkscape:window-width="1440"
-     inkscape:window-height="878"
-     inkscape:window-x="1272"
-     inkscape:window-y="52"
+     inkscape:window-width="1280"
+     inkscape:window-height="738"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
@@ -574,14 +574,14 @@
            sodipodi:cy="526.18109"
            sodipodi:rx="62.007874"
            sodipodi:ry="62.007874"
-           d="m 434.05511,526.18109 c 0,34.246 -27.76187,62.00787 -62.00787,62.00787 -34.246,0 -62.00787,-27.76187 -62.00787,-62.00787 0,-34.246 27.76187,-62.00787 62.00787,-62.00787 34.246,0 62.00787,27.76187 62.00787,62.00787 z"
+           d="m 434.05511,526.18109 a 62.007874,62.007874 0 0 1 -62.00787,62.00787 62.007874,62.007874 0 0 1 -62.00787,-62.00787 62.007874,62.007874 0 0 1 62.00787,-62.00787 62.007874,62.007874 0 0 1 62.00787,62.00787 z"
            transform="translate(0,-3.972441e-5)" />
         <g
            id="g4083"
            style="stroke:#e5e5e5;stroke-opacity:1">
           <path
              transform="matrix(1.0982289,0,0,1.0982289,-36.545836,-51.686286)"
-             d="m 992.12598,526.18109 c 0,342.46003 -277.61871,620.07871 -620.07874,620.07871 -342.460028,0 -620.07873,-277.61868 -620.07873,-620.07871 0,-342.46003 277.618702,-620.078734 620.07873,-620.078734 342.46003,0 620.07874,277.618704 620.07874,620.078734 z"
+             d="M 992.12598,526.18109 A 620.07874,620.07874 0 0 1 372.04724,1146.2598 620.07874,620.07874 0 0 1 -248.03149,526.18109 620.07874,620.07874 0 0 1 372.04724,-93.897644 620.07874,620.07874 0 0 1 992.12598,526.18109 Z"
              sodipodi:ry="620.07874"
              sodipodi:rx="620.07874"
              sodipodi:cy="526.18109"
@@ -910,7 +910,8 @@
          id="tspan13926"
          x="-1652.5631"
          y="396.7933"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB">Sample text</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
+         transform="matrix(-1,0,0,1,4083.8673,0)">Sample text</tspan></text>
     <path
        style="fill:none;stroke:#cdff17;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:5, 5;stroke-dashoffset:0;display:inline"
        d="m -2194.1875,1510.2088 c 0,0 124.0159,0 186.0237,0 62.0078,0 62.0078,-87.6968 124.0157,-87.6968 62.0079,0 62.008,0 124.0158,0 62.0078,0 62.0078,87.6968 124.0157,87.6968 62.0079,0 62.0079,0 62.0079,0"
@@ -1043,8 +1044,9 @@
          sodipodi:role="line"
          x="520.78119"
          y="463.41855"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
-         id="tspan4279">Twitter</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';text-align:center;text-anchor:middle;fill:#ffffff"
+         id="tspan4279"
+         transform="matrix(0.93988861,-0.34148118,-0.34148118,-0.93988861,708.00283,4022.0273)">Twitter</tspan></text>
     <path
        transform="translate(0,3.972441e-5)"
        inkscape:connector-curvature="0"
@@ -1062,10 +1064,11 @@
        xml:space="preserve"
        transform="matrix(0.36910488,-0.92938775,0.92938775,0.36910488,0,3.972441e-5)"><tspan
          id="tspan4285"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';text-align:center;text-anchor:middle;fill:#ffffff"
          y="515.78888"
          x="606.45905"
-         sodipodi:role="line">Facebook</tspan></text>
+         sodipodi:role="line"
+         transform="matrix(0.72752318,-0.68608311,-0.68608311,-0.72752318,1507.3753,3795.4962)">Facebook</tspan></text>
     <path
        transform="translate(-1.6514841e-6,-4.03636e-7)"
        d="M 1249.0157,526.18109 A 876.96851,876.96851 0 0 1 372.04726,1403.1496"
@@ -1367,11 +1370,12 @@
        x="211.73537"
        style="font-size:24.48838234px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans Oblique"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
          y="-35.498486"
          x="211.73537"
          id="tspan4549"
-         sodipodi:role="line">Twitter</tspan></text>
+         sodipodi:role="line"
+         transform="matrix(-1,0,0,1,4083.8673,0)">Twitter</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24.48838234px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans Oblique"
@@ -1383,7 +1387,8 @@
          id="tspan4553"
          x="321.48016"
          y="-35.384892"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB">Facebook</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
+         transform="matrix(-1,0,0,1,4083.8673,0)">Facebook</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4555"
@@ -1391,11 +1396,12 @@
        x="466.30148"
        style="font-size:24.48838234px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans Oblique"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
          y="-35.223469"
          x="466.30148"
          id="tspan4557"
-         sodipodi:role="line">Office</tspan></text>
+         sodipodi:role="line"
+         transform="matrix(-1,0,0,1,4083.8673,0)">Office</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
        d="m 372.04724,-175.39372 0,-2280.11808 496.063,-526.1811"
@@ -1479,7 +1485,7 @@
        style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
-       d="m 1744.5724,5021.1715 c 27.5196,-0.5402 53.7148,-0.2084 79.9525,-0.072 m -20.1018,-6.115 c 23.6335,-0.241 47.9765,-0.031 72.5754,0.2657 m -19.3356,3.4374 c 24.2104,-0.2564 49.4828,-0.6025 74.7531,-1.45 m -13.3254,1.6612 c 32.5615,0.6387 63.8006,0.3889 96.1,0.9795 m -32.0091,-5.3392 c 27.7457,-0.4171 57.3081,-0.474 87.6073,-1.087 m -21.8661,3.8764 c 19.342,0.3323 39.5079,-0.2688 60.1119,-1.451 0.2631,5.4611 0.5642,10.8717 0.8936,16.2409 m -4.4893,-15.0479 c 0.051,0 0.1027,0 0.1541,0 -0.4312,24.8487 0.3542,49.53 1.6214,74.0494 m 2.9051,-19.1129 c 0.2851,23.2745 -0.2658,47.2743 -1.2391,71.8028 m -0.6124,-14.0934 c 0.4964,31.0614 -0.1756,60.8101 -0.7294,90.1061 m 1.9244,-26.1737 c -0.3622,31.164 0.5373,61.466 1.7783,93.0123 m -2.9263,-24.2177 c 0.8087,27.6333 0.3057,54.777 0.1122,81.8968 m -2.9716,-23.2782 c 0.8578,30.484 0.114,59.6413 -0.1628,88.6094 m -0.681,-19.6572 c 0.6333,28.0216 0.7353,57.1356 1.6389,87.683 m 2.2981,-25.334 c -0.4573,20.4965 -0.6683,40.878 -1.1196,61.7655 -4.6961,0.2247 -9.405,0.4764 -14.1327,0.7625 m 15.1823,-6.0937 c 0,0.7992 0.01,1.5989 0.01,2.3993 -25.4769,-0.3798 -51.546,-0.1598 -78.0343,-0.066 m 19.1442,1.6512 c -30.8676,0.5156 -60.4976,0.6081 -89.6573,1.568 m 24.9043,-0.8883 c -32.0549,0.4025 -64.8238,-1.2073 -97.2155,-3.7054 m 27.4481,0.6819 c -32.6079,0.4671 -64.9907,1.0596 -96.9498,3.1303 m 27.4305,-3.9507 c -27.3058,0.1476 -53.9698,-0.3084 -79.7917,-1.0638 m 13.1578,5.5168 c -15.5813,-0.2125 -31.1988,-0.3162 -46.6301,-0.4566 0.4219,-14.2715 0.9912,-28.572 1.8645,-43.0041 m 0.4238,24.7025 c 0.2508,-31.7189 -0.1186,-63.6351 -0.4373,-96.3561 m 2.0542,27.4547 c -0.5663,-33.6335 0.4873,-64.9332 1.5527,-96.7021 m -1.8338,29.7142 c 0.052,-31.9087 0.033,-64.8093 0.064,-99.5888 m -3.6271,31.477 c -0.3648,-33.3477 0.4943,-66.3402 1.4829,-99.5994 m 0.7205,24.0929 c 0.5253,-29.1251 -0.067,-58.4458 -0.528,-86.0826 m 2.309,25.5186 c -0.2729,-23.7852 -0.4149,-47.2929 -0.8334,-70.5647 m 1.8648,16.9125 c 0.2368,-27.8062 0.2702,-54.9119 0.5875,-82.2916 1.8615,-0 3.7244,-0.01 5.5886,-0.017 m -7.2311,17.8435 c -0.1293,-5.7426 -0.227,-11.5153 -0.3049,-17.3121 18.9076,0.041 38.0305,-0.1808 56.9449,-0.4526 m -48.5615,0.9697 c 28.0144,0.3346 56.552,-0.8271 85.602,-2.7883 m -24.6845,-4.0557 c 32.6263,-0.6427 66.4933,0.6498 100.3097,1.9831 m -29.4679,4.7439 c 27.1454,0.7307 55.0767,0.4187 83.3616,0.5304 m -14.4665,-5.1478 c 27.805,0.1424 55.2654,0.1723 82.7576,0.383 m -22.5889,1.7732 c 30.8854,-0.014 60.3104,0.6708 89.2102,2.0056 m -24.7208,-4.6775 c 13.0557,-0.087 26.2222,-0.068 39.439,0.016 0.047,18.275 0.1905,36.6752 0.2715,55.0988 m 2.8838,-29.9022 c 0.7742,29.6506 0.087,59.931 -0.2611,91.2006 m -5.9736,-16.8618 c -0.2019,31.1189 0.5097,61.6483 1.5987,92.4277 m -0.5911,-35.0475 c -0.6088,23.1765 -0.325,47.3545 -0.069,71.5253 m 1.9683,-8.7625 c 0.5687,32.6408 -1.6715,65.192 -5.0917,97.1349 m 7.7402,-25.9933 c 0.689,32.3032 0.3995,64.0902 1.0378,96.2676 m -5.749,-37.404 c 2e-4,24.5367 0.5067,49.4364 1.5096,74.9488 m 0.3652,-7.4374 c -0.6863,28.7611 0.7339,56.5138 2.7714,83.9316 -1.0903,-0.043 -2.1795,-0.086 -3.2678,-0.1292 m 0.2621,-23.3386 c -0.1071,6.5607 -0.1311,13.2225 -0.085,19.9656 -24.566,0.074 -48.1833,1.2508 -71.4957,2.5543 m 28.1962,1.4929 c -25.3579,-0.03 -50.4228,-0.01 -75.5155,-3e-4 m 16.0103,-2.6713 c -26.1547,0.562 -51.5174,0.2236 -77.2133,-0.01 m 15.4237,-0.5536 c -24.7072,-0.1692 -48.4169,-0.026 -72.1252,0.1499 m 14.3067,3.1316 c -29.6133,0.5744 -58.4618,-0.3673 -86.7189,-1.4861 m 22.1457,-0.6938 c -28.4661,-0.01 -56.8234,0.1796 -84.9695,0.5625 0.056,-4.2933 0.1168,-8.582 0.183,-12.8662 m 12.5894,10.8739 c -5.2758,-0.065 -10.5526,-0.1098 -15.823,-0.1381 0.4593,-25.1667 1.0556,-49.9843 2.518,-74.9569 m 0.1042,24.2697 c -0.01,-33.4189 -1.7575,-66.7179 -5.2732,-100.3955 m 5.0625,31.544 c 0.8495,-31.7466 -0.6622,-63.5564 -2.2802,-96.7216 m 2.4908,24.7279 c -0.3645,-31.7845 -0.3065,-62.2072 -0.7995,-93.0431 m 4.8543,28.7554 c 0.2321,-27.9033 0.2858,-57.198 0.6441,-87.0212 m -5.3319,20.3783 c -0.7063,-28.9426 -0.1018,-55.5619 0.3151,-81.5031 m -4.7679,25.8384 c 0.049,-25.9559 0.5379,-52.0836 1.5629,-78.0466 m 2.0464,13.5429 c 0.034,-18.4529 -0.1296,-36.903 -0.4618,-55.4332 13.937,-0.133 27.7735,-0.3139 41.5234,-0.5811 m -30.8508,3.4007 c 26.341,0.3355 53.981,0.6665 81.6193,1.6397 m -22.052,-3.1869 c 26.825,-0.753 55.0775,0.131 83.9435,1.1581 m -16.4225,-3.1267 c 26.3388,-0.2956 51.5061,0.5099 75.5691,1.8709 m -24.1069,0.1214 c 30.4257,0.1885 60.8496,-0.4233 92.7533,-1.3819 m -21.5171,-1.6886 c 28.5544,-0.398 57.7701,0.9654 85.8862,3.1879 m -23.987,1.1013 c 16.9598,0 33.6565,-0.1749 50.2731,-0.5336 -0.09,14.6546 -0.244,29.1648 -0.3309,43.5327 m 1.8724,-25.8477 c -0.2622,24.8228 0.2328,50.6772 1.0434,76.4722 m -2.145,-21.9343 c -0.3943,24.3252 -0.1985,48.8116 -0.047,73.3623 m 1.6875,-10.1399 c -0.8079,30.8999 0.2753,61.4742 1.2388,92.6895 m -1.9886,-28.4813 c -0.1474,24.2944 0.7037,48.9559 2.3295,74.0933 m 2.358,-13.7364 c -0.1262,25.0374 -0.3372,51.0476 -0.864,76.9587 m 0.7236,-21.0732 c 0.4762,23.3141 -0.3054,47.6636 -1.594,72.1183 m -3.9841,-11.9873 c 0.496,27.0843 0.7096,52.8074 1.5832,78.3599 m -2.4505,-23.2768 c 0.2513,21.1503 0.173,42.1703 0.065,63.2067 -4.6688,9e-4 -9.3391,0 -14.0076,0.01 m 16.8249,-1.8039 c -0.025,1.2966 -0.049,2.592 -0.073,3.8864 -31.8067,0.1349 -63.4323,-0.3885 -96.4771,-1.0898 m 32.2862,-3.8759 c -28.7151,-0.3666 -55.4085,-0.3168 -81.7132,-0.6358 m 21.4277,6.0967 c -24.3822,-0.4229 -48.5634,-0.551 -72.5351,-1.0683 m 10.2033,0.2016 c -27.6431,0.7797 -55.3984,0.1947 -83.9797,-0.1897 m 25.7511,-1.9671 c -29.7504,-0.7671 -61.8444,0.5973 -94.8442,2.1929 m 26.1661,-1.3725 c -20.2143,-0.2958 -39.7614,-0.6414 -59.1508,-1.3468 0.1933,-11.7893 0.4391,-23.6984 0.6396,-35.787 m -2.3727,28.4101 c 0.4613,-23.396 0.1098,-47.2688 -0.3413,-71.1157 m -2.8229,18.2808 c 0.094,-23.413 0.7593,-47.1782 2.1409,-70.8894 m 0.8588,11.442 c -0.6481,-23.8046 0.1825,-48.3482 1.469,-72.903 m 3.125,17.1437 c -0.1269,-27.0253 -0.7197,-54.5729 -2.0464,-82.5983 m -5.5005,20.58 c 0.062,-34.0461 1.2576,-65.1723 3.7534,-96.1006 m 0.4184,27.8596 c -0.3703,-25.379 0.042,-49.7818 0.5989,-73.6937 m 3.3624,14.0122 c 0.6965,-23.9543 -0.031,-46.6915 -1.163,-69.0224 m -2.6344,16.9386 c -0.5979,-23.568 -0.5022,-48.491 -0.651,-73.9876 m 1.6591,17.153 c -0.01,-5.9656 -0.035,-11.9211 -0.078,-17.8689 20.8007,-0.035 41.3935,0.024 61.7453,0.069 m -63.3313,-3.271 c 25.3238,-0.2814 50.8208,-0.4105 77.0321,-0.859 m -19.1671,-2.6798 c 23.4894,0.4023 47.9106,0.6263 72.7219,1.2948 m -14.928,0.8845 c 24.7754,-0.4484 50.303,-0.2358 76.455,-0.1025 m -17.114,4.7199 c 23.7175,0.1259 48.7733,0.045 74.0328,-0.037 m -17.0257,-3.3146 c 29.904,0.5442 58.6587,0.3449 86.5705,0.6933 m -18.1773,2.3767 c 23.518,-0.2099 47.3324,-0.5265 71.3613,-1.2787 m -22.7097,1.8413 c 6.6402,-0.037 13.324,-0.072 20.0515,-0.1095 0.2906,22.3471 1.0817,44.669 2.3744,66.7887 m -2.2199,-28.0766 c -0.6567,26.3971 -0.2087,52.4856 0.1752,79.4968 m 1.0201,-14.5791 c -0.6713,30.8619 0.5807,60.2114 2.1129,89.7402 m 5.9265,-29.1282 c 0.2411,23.8279 -0.2254,48.9127 -0.9936,74.1488 m -1.9126,-12.6276 c 0.421,32.6695 0.1862,63.5933 0.4789,94.4271 m 0.6929,-29.321 c 0.2239,26.431 0.496,54.1436 1.2571,82.9268 m -4.6792,-17.8771 c -0.693,33.4574 0.1174,65.5747 0.3875,98.0925 m -4.9344,-29.5987 c -0.4185,23.2856 -0.1508,46.6862 0.1813,69.8762 -1.0237,-0.014 -2.0473,-0.028 -3.0708,-0.043 m 7.0149,-8.1997 c 0.087,4.4953 0.1554,8.9448 0.2089,13.354 -28.3651,0.1697 -57.3569,-1.3818 -85.6856,-3.0237 m 31.5346,-4.54 c -26.8437,-0.6866 -54.1481,0.2544 -80.803,1.4118 m 20.4503,-1.3645 c -28.224,0.3679 -57.8171,0.1996 -86.8138,0.354 m 20.3029,3.091 c -29.6344,-0.4294 -59.9457,-1.2033 -91.1414,-3.3479 m 26.5916,3.1139 c -23.4711,0.5474 -47.1041,-0.5656 -71.0513,-2.5286 m 14.7926,2.0364 c -23.2081,0.3811 -46.2348,0.5314 -69.4999,0.9954 -0.131,-8.2245 -0.294,-16.4069 -0.5098,-24.5204 m 3.9648,26.3136 c -0.4322,-0.012 -0.8642,-0.024 -1.296,-0.036 -0.4986,-27.3645 -0.017,-53.6224 0.4177,-80.2646 m -1.4475,16.6717 c 0.2337,-32.6136 0.4896,-64.5424 1.3982,-97.0531 m -4.1637,29.9264 c 0.8342,-31.8867 1.4168,-64.6918 4.1318,-97.0912 m -2.632,24.0465 c 0.044,-23.4779 -0.2651,-46.7149 -0.8514,-69.7625 m 4.648,17.8684 c -0.7829,-30.9898 -1.1439,-62.4582 -3.1362,-93.8115 m 3.8628,28.0798 c -0.6371,-30.9019 -1.023,-60.5138 -2.7309,-90.5641 m -0.3157,23.7576 c 0.085,-24.4418 -0.4531,-48.5023 -1.4798,-72.4999 m 0.1905,13.7835 c -0.223,-17.6573 0.071,-35.111 0.6935,-52.3823 8.8498,0.1772 17.7766,0.3971 26.7589,0.6576 m -23.71,-2.9434 c 28.2148,-0.338 56.5836,0.4743 84.9434,1.6864 m -21.0899,-0.3972 c 27.507,0.1235 56.1332,0.1252 85.3953,0.2418 m -24.3708,-0.1249 c 25.0052,-0.7349 51.1821,0.2008 77.2606,1.4908 m -15.7881,0.5252 c 30.4855,0.3131 61.981,0.6322 92.9901,1.7947 m -30.6287,-2.5916 c 31.4608,0.4821 64.475,-1.0068 97.0928,-3.098 m -24.9731,1.8791 c 15.8372,-0.051 31.0379,-0.2551 45.8731,-0.6434 -0.6554,16.8925 -1.7725,33.5527 -2.9665,49.9377 m 5.5747,-24.949 c 0.1453,26.2692 0.043,52.3156 -0.058,78.9411 m -1.4653,-21.663 c -0.7408,31.9034 -0.6505,63.1911 -1.7345,94.6554 m -0.7966,-23.3288 c -0.4454,31.5536 1.1159,59.9757 3.5644,87.5186 m 2.4827,-21.7639 c 0.3654,30.5546 -1.0571,60.5079 -3.3556,91.1764 m 2.9803,-24.5678 c -0.5557,29.0963 -0.8385,56.6249 -2.0815,83.7694 m -0.028,-17.4998 c -0.4544,25.8913 -0.3702,50.0998 -0.5325,73.2616 m 1.3528,-20.5424 c -0.6056,26.7975 0.1476,54.3002 1.0966,82.7816 m -1.9869,-19.0255 c 0.068,9.9335 0.1625,19.8264 0.3014,29.6674 -19.9511,-0.2728 -39.7202,-0.7591 -59.1629,-1.5537 m 24.7936,-3.2729 c -26.234,0.1375 -51.322,0.5748 -76.5837,1.5562 m 15.2328,4.7482 c -26.5222,-0.7046 -52.1497,-0.6408 -77.1364,-1.1339 m 14.8401,1.72 c -25.0081,-0.2774 -49.599,-0.2789 -74.3287,-0.4651 m 17.9374,0.3245 c -26.479,-0.3464 -52.2377,-1.2204 -77.4527,-3.2632 m 12.6488,-4.3774 c -23.4682,-0.1054 -46.9822,0.5531 -70.1483,1.8146 m 20.829,2.4513 c -14.0402,0.3146 -28.1189,0.6338 -42.1074,1.1305 0.2428,-11.5684 0.5492,-23.0117 0.9953,-34.228 m -5.0026,14.5693 c 0.069,-24.551 0.4225,-48.7921 1.1687,-72.7923 m -5.1294,15.0918 c 0.7043,-30.6276 0.2672,-60.2627 0.4443,-89.5806 m 2.8369,29.6158 c 0.5526,-29.6664 -0.4455,-60.5805 -1.6269,-91.3066 m 4.0176,16.3603 c 0.6713,-24.9954 0.4118,-48.5752 0.3183,-71.2353 m 4.1347,22.56 c 0.3302,-27.1733 -0.5789,-54.5854 -2.0755,-82.3478 m -7.0885,16.8814 c 0.5386,-28.6707 1.2842,-55.7457 3.3858,-82.6042 m 3.7391,20.468 c 0.3641,-29.2825 0.5118,-58.6826 1.285,-88.1289 m 0.098,20.3472 c -0.2124,-14.1724 -0.5442,-28.1702 -1.1106,-42.0041 11.3259,0.2656 22.4886,0.6451 33.4217,1.1324 m 151.398,496.7037 -160.8593,0 m -27.1153,-322.5735 0,-143.5156 m 0,309.0988 0,-149.1407 m 189.7706,-189.932 190.1562,0 m 63.3219,496.063 -169.5312,0"
+       d="m 1744.5724,5021.1715 c 27.5196,-0.5402 53.7148,-0.2084 79.9525,-0.072 m -20.1018,-6.115 c 23.6335,-0.241 47.9765,-0.031 72.5754,0.2657 m -19.3356,3.4374 c 24.2104,-0.2564 49.4828,-0.6025 74.7531,-1.45 m -13.3254,1.6612 c 32.5615,0.6387 63.8006,0.3889 96.1,0.9795 m -32.0091,-5.3392 c 27.7457,-0.4171 57.3081,-0.474 87.6073,-1.087 m -21.8661,3.8764 c 19.342,0.3323 39.5079,-0.2688 60.1119,-1.451 0.2631,5.4611 0.5642,10.8717 0.8936,16.2409 m -4.4893,-15.0479 c 0,0 0.1541,0 0.1541,0 -0.4312,24.8487 0.3542,49.53 1.6214,74.0494 m 2.9051,-19.1129 c 0.2851,23.2745 -0.2658,47.2743 -1.2391,71.8028 m -0.6124,-14.0934 c 0.4964,31.0614 -0.1756,60.8101 -0.7294,90.1061 m 1.9244,-26.1737 c -0.3622,31.164 0.5373,61.466 1.7783,93.0123 m -2.9263,-24.2177 c 0.8087,27.6333 0.3057,54.777 0.1122,81.8968 m -2.9716,-23.2782 c 0.8578,30.484 0.114,59.6413 -0.1628,88.6094 m -0.681,-19.6572 c 0.6333,28.0216 0.7353,57.1356 1.6389,87.683 m 2.2981,-25.334 c -0.4573,20.4965 -0.6683,40.878 -1.1196,61.7655 -4.6961,0.2247 -9.405,0.4764 -14.1327,0.7625 m 15.1823,-6.0937 c 0,0.7992 0.01,1.5989 0.01,2.3993 -25.4769,-0.3798 -51.546,-0.1598 -78.0343,-0.066 m 19.1442,1.6512 c -30.8676,0.5156 -60.4976,0.6081 -89.6573,1.568 m 24.9043,-0.8883 c -32.0549,0.4025 -64.8238,-1.2073 -97.2155,-3.7054 m 27.4481,0.6819 c -32.6079,0.4671 -64.9907,1.0596 -96.9498,3.1303 m 27.4305,-3.9507 c -27.3058,0.1476 -53.9698,-0.3084 -79.7917,-1.0638 m 13.1578,5.5168 c -15.5813,-0.2125 -31.1988,-0.3162 -46.6301,-0.4566 0.4219,-14.2715 0.9912,-28.572 1.8645,-43.0041 m 0.4238,24.7025 c 0.2508,-31.7189 -0.1186,-63.6351 -0.4373,-96.3561 m 2.0542,27.4547 c -0.5663,-33.6335 0.4873,-64.9332 1.5527,-96.7021 m -1.8338,29.7142 c 0.052,-31.9087 0.033,-64.8093 0.064,-99.5888 m -3.6271,31.477 c -0.3648,-33.3477 0.4943,-66.3402 1.4829,-99.5994 m 0.7205,24.0929 c 0.5253,-29.1251 -0.067,-58.4458 -0.528,-86.0826 m 2.309,25.5186 c -0.2729,-23.7852 -0.4149,-47.2929 -0.8334,-70.5647 m 1.8648,16.9125 c 0.2368,-27.8062 0.2702,-54.9119 0.5875,-82.2916 1.8615,-0 3.7244,-0.01 5.5886,-0.017 m -7.2311,17.8435 c -0.1293,-5.7426 -0.227,-11.5153 -0.3049,-17.3121 18.9076,0.041 38.0305,-0.1808 56.9449,-0.4526 m -48.5615,0.9697 c 28.0144,0.3346 56.552,-0.8271 85.602,-2.7883 m -24.6845,-4.0557 c 32.6263,-0.6427 66.4933,0.6498 100.3097,1.9831 m -29.4679,4.7439 c 27.1454,0.7307 55.0767,0.4187 83.3616,0.5304 m -14.4665,-5.1478 c 27.805,0.1424 55.2654,0.1723 82.7576,0.383 m -22.5889,1.7732 c 30.8854,-0.014 60.3104,0.6708 89.2102,2.0056 m -24.7208,-4.6775 c 13.0557,-0.087 26.2222,-0.068 39.439,0.016 0.047,18.275 0.1905,36.6752 0.2715,55.0988 m 2.8838,-29.9022 c 0.7742,29.6506 0.087,59.931 -0.2611,91.2006 m -5.9736,-16.8618 c -0.2019,31.1189 0.5097,61.6483 1.5987,92.4277 m -0.5911,-35.0475 c -0.6088,23.1765 -0.325,47.3545 -0.069,71.5253 m 1.9683,-8.7625 c 0.5687,32.6408 -1.6715,65.192 -5.0917,97.1349 m 7.7402,-25.9933 c 0.689,32.3032 0.3995,64.0902 1.0378,96.2676 m -5.749,-37.404 c 2e-4,24.5367 0.5067,49.4364 1.5096,74.9488 m 0.3652,-7.4374 c -0.6863,28.7611 0.7339,56.5138 2.7714,83.9316 -1.0903,-0.043 -2.1795,-0.086 -3.2678,-0.1292 m 0.2621,-23.3386 c -0.1071,6.5607 -0.1311,13.2225 -0.085,19.9656 -24.566,0.074 -48.1833,1.2508 -71.4957,2.5543 m 28.1962,1.4929 c -25.3579,-0.03 -50.4228,-0.01 -75.5155,-3e-4 m 16.0103,-2.6713 c -26.1547,0.562 -51.5174,0.2236 -77.2133,-0.01 m 15.4237,-0.5536 c -24.7072,-0.1692 -48.4169,-0.026 -72.1252,0.1499 m 14.3067,3.1316 c -29.6133,0.5744 -58.4618,-0.3673 -86.7189,-1.4861 m 22.1457,-0.6938 c -28.4661,-0.01 -56.8234,0.1796 -84.9695,0.5625 0.056,-4.2933 0.1168,-8.582 0.183,-12.8662 m 12.5894,10.8739 c -5.2758,-0.065 -10.5526,-0.1098 -15.823,-0.1381 0.4593,-25.1667 1.0556,-49.9843 2.518,-74.9569 m 0.1042,24.2697 c -0.01,-33.4189 -1.7575,-66.7179 -5.2732,-100.3955 m 5.0625,31.544 c 0.8495,-31.7466 -0.6622,-63.5564 -2.2802,-96.7216 m 2.4908,24.7279 c -0.3645,-31.7845 -0.3065,-62.2072 -0.7995,-93.0431 m 4.8543,28.7554 c 0.2321,-27.9033 0.2858,-57.198 0.6441,-87.0212 m -5.3319,20.3783 c -0.7063,-28.9426 -0.1018,-55.5619 0.3151,-81.5031 m -4.7679,25.8384 c 0.049,-25.9559 0.5379,-52.0836 1.5629,-78.0466 m 2.0464,13.5429 c 0.034,-18.4529 -0.1296,-36.903 -0.4618,-55.4332 13.937,-0.133 27.7735,-0.3139 41.5234,-0.5811 m -30.8508,3.4007 c 26.341,0.3355 53.981,0.6665 81.6193,1.6397 m -22.052,-3.1869 c 26.825,-0.753 55.0775,0.131 83.9435,1.1581 m -16.4225,-3.1267 c 26.3388,-0.2956 51.5061,0.5099 75.5691,1.8709 m -24.1069,0.1214 c 30.4257,0.1885 60.8496,-0.4233 92.7533,-1.3819 m -21.5171,-1.6886 c 28.5544,-0.398 57.7701,0.9654 85.8862,3.1879 m -23.987,1.1013 c 16.9598,0 33.6565,-0.1749 50.2731,-0.5336 -0.09,14.6546 -0.244,29.1648 -0.3309,43.5327 m 1.8724,-25.8477 c -0.2622,24.8228 0.2328,50.6772 1.0434,76.4722 m -2.145,-21.9343 c -0.3943,24.3252 -0.1985,48.8116 -0.047,73.3623 m 1.6875,-10.1399 c -0.8079,30.8999 0.2753,61.4742 1.2388,92.6895 m -1.9886,-28.4813 c -0.1474,24.2944 0.7037,48.9559 2.3295,74.0933 m 2.358,-13.7364 c -0.1262,25.0374 -0.3372,51.0476 -0.864,76.9587 m 0.7236,-21.0732 c 0.4762,23.3141 -0.3054,47.6636 -1.594,72.1183 m -3.9841,-11.9873 c 0.496,27.0843 0.7096,52.8074 1.5832,78.3599 m -2.4505,-23.2768 c 0.2513,21.1503 0.173,42.1703 0.065,63.2067 -4.6688,9e-4 -9.3391,0 -14.0076,0.01 m 16.8249,-1.8039 c -0.025,1.2966 -0.049,2.592 -0.073,3.8864 -31.8067,0.1349 -63.4323,-0.3885 -96.4771,-1.0898 m 32.2862,-3.8759 c -28.7151,-0.3666 -55.4085,-0.3168 -81.7132,-0.6358 m 21.4277,6.0967 c -24.3822,-0.4229 -48.5634,-0.551 -72.5351,-1.0683 m 10.2033,0.2016 c -27.6431,0.7797 -55.3984,0.1947 -83.9797,-0.1897 m 25.7511,-1.9671 c -29.7504,-0.7671 -61.8444,0.5973 -94.8442,2.1929 m 26.1661,-1.3725 c -20.2143,-0.2958 -39.7614,-0.6414 -59.1508,-1.3468 0.1933,-11.7893 0.4391,-23.6984 0.6396,-35.787 m -2.3727,28.4101 c 0.4613,-23.396 0.1098,-47.2688 -0.3413,-71.1157 m -2.8229,18.2808 c 0.094,-23.413 0.7593,-47.1782 2.1409,-70.8894 m 0.8588,11.442 c -0.6481,-23.8046 0.1825,-48.3482 1.469,-72.903 m 3.125,17.1437 c -0.1269,-27.0253 -0.7197,-54.5729 -2.0464,-82.5983 m -5.5005,20.58 c 0.062,-34.0461 1.2576,-65.1723 3.7534,-96.1006 m 0.4184,27.8596 c -0.3703,-25.379 0.042,-49.7818 0.5989,-73.6937 m 3.3624,14.0122 c 0.6965,-23.9543 -0.031,-46.6915 -1.163,-69.0224 m -2.6344,16.9386 c -0.5979,-23.568 -0.5022,-48.491 -0.651,-73.9876 m 1.6591,17.153 c -0.01,-5.9656 -0.035,-11.9211 -0.078,-17.8689 20.8007,-0.035 41.3935,0.024 61.7453,0.069 m -63.3313,-3.271 c 25.3238,-0.2814 50.8208,-0.4105 77.0321,-0.859 m -19.1671,-2.6798 c 23.4894,0.4023 47.9106,0.6263 72.7219,1.2948 m -14.928,0.8845 c 24.7754,-0.4484 50.303,-0.2358 76.455,-0.1025 m -17.114,4.7199 c 23.7175,0.1259 48.7733,0.045 74.0328,-0.037 m -17.0257,-3.3146 c 29.904,0.5442 58.6587,0.3449 86.5705,0.6933 m -18.1773,2.3767 c 23.518,-0.2099 47.3324,-0.5265 71.3613,-1.2787 m -22.7097,1.8413 c 6.6402,-0.037 13.324,-0.072 20.0515,-0.1095 0.2906,22.3471 1.0817,44.669 2.3744,66.7887 m -2.2199,-28.0766 c -0.6567,26.3971 -0.2087,52.4856 0.1752,79.4968 m 1.0201,-14.5791 c -0.6713,30.8619 0.5807,60.2114 2.1129,89.7402 m 5.9265,-29.1282 c 0.2411,23.8279 -0.2254,48.9127 -0.9936,74.1488 m -1.9126,-12.6276 c 0.421,32.6695 0.1862,63.5933 0.4789,94.4271 m 0.6929,-29.321 c 0.2239,26.431 0.496,54.1436 1.2571,82.9268 m -4.6792,-17.8771 c -0.693,33.4574 0.1174,65.5747 0.3875,98.0925 m -4.9344,-29.5987 c -0.4185,23.2856 -0.1508,46.6862 0.1813,69.8762 -1.0237,-0.014 -2.0473,-0.028 -3.0708,-0.043 m 7.0149,-8.1997 c 0.087,4.4953 0.1554,8.9448 0.2089,13.354 -28.3651,0.1697 -57.3569,-1.3818 -85.6856,-3.0237 m 31.5346,-4.54 c -26.8437,-0.6866 -54.1481,0.2544 -80.803,1.4118 m 20.4503,-1.3645 c -28.224,0.3679 -57.8171,0.1996 -86.8138,0.354 m 20.3029,3.091 c -29.6344,-0.4294 -59.9457,-1.2033 -91.1414,-3.3479 m 26.5916,3.1139 c -23.4711,0.5474 -47.1041,-0.5656 -71.0513,-2.5286 m 14.7926,2.0364 c -23.2081,0.3811 -46.2348,0.5314 -69.4999,0.9954 -0.131,-8.2245 -0.294,-16.4069 -0.5098,-24.5204 m 3.9648,26.3136 c -0.4322,-0.012 -0.8642,-0.024 -1.296,-0.036 -0.4986,-27.3645 -0.017,-53.6224 0.4177,-80.2646 m -1.4475,16.6717 c 0.2337,-32.6136 0.4896,-64.5424 1.3982,-97.0531 m -4.1637,29.9264 c 0.8342,-31.8867 1.4168,-64.6918 4.1318,-97.0912 m -2.632,24.0465 c 0.044,-23.4779 -0.2651,-46.7149 -0.8514,-69.7625 m 4.648,17.8684 c -0.7829,-30.9898 -1.1439,-62.4582 -3.1362,-93.8115 m 3.8628,28.0798 c -0.6371,-30.9019 -1.023,-60.5138 -2.7309,-90.5641 m -0.3157,23.7576 c 0.085,-24.4418 -0.4531,-48.5023 -1.4798,-72.4999 m 0.1905,13.7835 c -0.223,-17.6573 0.071,-35.111 0.6935,-52.3823 8.8498,0.1772 17.7766,0.3971 26.7589,0.6576 m -23.71,-2.9434 c 28.2148,-0.338 56.5836,0.4743 84.9434,1.6864 m -21.0899,-0.3972 c 27.507,0.1235 56.1332,0.1252 85.3953,0.2418 m -24.3708,-0.1249 c 25.0052,-0.7349 51.1821,0.2008 77.2606,1.4908 m -15.7881,0.5252 c 30.4855,0.3131 61.981,0.6322 92.9901,1.7947 m -30.6287,-2.5916 c 31.4608,0.4821 64.475,-1.0068 97.0928,-3.098 m -24.9731,1.8791 c 15.8372,-0.051 31.0379,-0.2551 45.8731,-0.6434 -0.6554,16.8925 -1.7725,33.5527 -2.9665,49.9377 m 5.5747,-24.949 c 0.1453,26.2692 0.043,52.3156 -0.058,78.9411 m -1.4653,-21.663 c -0.7408,31.9034 -0.6505,63.1911 -1.7345,94.6554 m -0.7966,-23.3288 c -0.4454,31.5536 1.1159,59.9757 3.5644,87.5186 m 2.4827,-21.7639 c 0.3654,30.5546 -1.0571,60.5079 -3.3556,91.1764 m 2.9803,-24.5678 c -0.5557,29.0963 -0.8385,56.6249 -2.0815,83.7694 m -0.028,-17.4998 c -0.4544,25.8913 -0.3702,50.0998 -0.5325,73.2616 m 1.3528,-20.5424 c -0.6056,26.7975 0.1476,54.3002 1.0966,82.7816 m -1.9869,-19.0255 c 0.068,9.9335 0.1625,19.8264 0.3014,29.6674 -19.9511,-0.2728 -39.7202,-0.7591 -59.1629,-1.5537 m 24.7936,-3.2729 c -26.234,0.1375 -51.322,0.5748 -76.5837,1.5562 m 15.2328,4.7482 c -26.5222,-0.7046 -52.1497,-0.6408 -77.1364,-1.1339 m 14.8401,1.72 c -25.0081,-0.2774 -49.599,-0.2789 -74.3287,-0.4651 m 17.9374,0.3245 c -26.479,-0.3464 -52.2377,-1.2204 -77.4527,-3.2632 m 12.6488,-4.3774 c -23.4682,-0.1054 -46.9822,0.5531 -70.1483,1.8146 m 20.829,2.4513 c -14.0402,0.3146 -28.1189,0.6338 -42.1074,1.1305 0.2428,-11.5684 0.5492,-23.0117 0.9953,-34.228 m -5.0026,14.5693 c 0.069,-24.551 0.4225,-48.7921 1.1687,-72.7923 m -5.1294,15.0918 c 0.7043,-30.6276 0.2672,-60.2627 0.4443,-89.5806 m 2.8369,29.6158 c 0.5526,-29.6664 -0.4455,-60.5805 -1.6269,-91.3066 m 4.0176,16.3603 c 0.6713,-24.9954 0.4118,-48.5752 0.3183,-71.2353 m 4.1347,22.56 c 0.3302,-27.1733 -0.5789,-54.5854 -2.0755,-82.3478 m -7.0885,16.8814 c 0.5386,-28.6707 1.2842,-55.7457 3.3858,-82.6042 m 3.7391,20.468 c 0.3641,-29.2825 0.5118,-58.6826 1.285,-88.1289 m 0.098,20.3472 c -0.2124,-14.1724 -0.5442,-28.1702 -1.1106,-42.0041 11.3259,0.2656 22.4886,0.6451 33.4217,1.1324 m 151.398,496.7037 -160.8593,0 m -27.1153,-322.5735 0,-143.5156 m 0,309.0988 0,-149.1407 m 189.7706,-189.932 190.1562,0 m 63.3219,496.063 -169.5312,0"
        id="rect15984-1"
        inkscape:path-effect="#path-effect16015"
        inkscape:original-d="m 1736.2205,5016.4373 372.0473,0 0,496.063 -372.0473,0 z"
@@ -1633,11 +1639,12 @@
          x="5104.96"
          style="font-size:27.39118195px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans Oblique"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
            y="3449.4224"
            x="5104.96"
            id="tspan12997-7-0"
-           sodipodi:role="line">Standard business card</tspan></text>
+           sodipodi:role="line"
+           transform="matrix(-1,0,0,1,4083.8673,0)">Standard business card</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:13.24321651px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans Oblique"
@@ -1649,7 +1656,8 @@
            id="tspan13825"
            x="5313.5684"
            y="3511.5317"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB">3.5&quot; by 2&quot;</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
+           transform="matrix(-1,0,0,1,4083.8673,0)">3.5&quot; by 2&quot;</tspan></text>
     </g>
     <g
        id="g14984"
@@ -1672,7 +1680,8 @@
            id="tspan3915"
            x="5102.998"
            y="2241.1858"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB">A4 page</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
+           transform="matrix(-1,0,0,1,3711.8202,0)">A4 page</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3917"
@@ -1680,11 +1689,12 @@
          x="5342.1558"
          style="font-size:29.05459404px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans Oblique"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
            y="2950.7456"
            x="5342.1558"
            id="tspan3919"
-           sodipodi:role="line">210 x 297 mm</tspan></text>
+           sodipodi:role="line"
+           transform="matrix(-1,0,0,1,3711.8202,0)">210 x 297 mm</tspan></text>
     </g>
     <text
        xml:space="preserve"
@@ -1697,7 +1707,8 @@
          id="tspan4173-8"
          x="811.84088"
          y="672.90503"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB">Facebook default sizes</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
+         transform="matrix(-1,0,0,1,4083.8673,0)">Facebook default sizes</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24.48838234px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans Oblique"
@@ -1709,7 +1720,8 @@
          id="tspan4173-8-0"
          x="811.84088"
          y="794.92078"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB">Useful page sizes</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
+         transform="matrix(-1,0,0,1,4083.8673,0)">Useful page sizes</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24.48838234px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans Oblique"
@@ -1721,7 +1733,8 @@
          id="tspan4173-8-98"
          x="811.84088"
          y="486.92862"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB">Card sizes</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
+         transform="matrix(-1,0,0,1,4083.8673,0)">Card sizes</tspan></text>
     <path
        sodipodi:type="arc"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
@@ -1751,7 +1764,8 @@
          id="tspan4173-8-1"
          x="811.84088"
          y="548.9671"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB">Comic hand drawn icons</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
+         transform="matrix(-1,0,0,1,4083.8673,0)">Comic hand drawn icons</tspan></text>
     <path
        sodipodi:type="arc"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
@@ -1781,7 +1795,8 @@
          id="tspan4173-8-3"
          x="811.84088"
          y="610.9444"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB">Mocks for UI design</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
+         transform="matrix(-1,0,0,1,4083.8673,0)">Mocks for UI design</tspan></text>
     <path
        sodipodi:type="arc"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
@@ -1829,7 +1844,8 @@
          id="tspan4173-8-5"
          x="811.84088"
          y="734.96014"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB">Android mockups</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
+         transform="matrix(-1,0,0,1,4083.8673,0)">Android mockups</tspan></text>
     <path
        sodipodi:type="arc"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
@@ -1877,7 +1893,8 @@
          id="tspan4173-8-81"
          x="811.84088"
          y="858.97589"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB">Pending</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
+         transform="matrix(-1,0,0,1,4083.8673,0)">Pending</tspan></text>
     <path
        sodipodi:type="arc"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
@@ -1903,26 +1920,30 @@
        x="904.72388"
        style="font-size:8.71167374px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans Oblique"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#808080"
          y="847.9599"
          x="904.72388"
          id="tspan4379-25"
-         sodipodi:role="line">You can collaborate on the repo:</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
+         sodipodi:role="line"
+         transform="matrix(-1,0,0,1,4083.8673,0)">You can collaborate on the repo:</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#808080"
          y="858.84949"
          x="904.72388"
          sodipodi:role="line"
-         id="tspan4411-8">https://github.com/adelriosantiago/Infographic-toolkit</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
+         id="tspan4411-8"
+         transform="matrix(-1,0,0,1,4083.8673,0)">https://github.com/adelriosantiago/Infographic-toolkit</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#808080"
          y="869.73907"
          x="904.72388"
          sodipodi:role="line"
-         id="tspan4396-62" /><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
+         id="tspan4396-62"
+         transform="matrix(-1,0,0,1,4083.8673,0)" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#808080"
          y="880.62866"
          x="904.72388"
          sodipodi:role="line"
-         id="tspan4381-65" /></text>
+         id="tspan4381-65"
+         transform="matrix(-1,0,0,1,4083.8673,0)" /></text>
     <text
        xml:space="preserve"
        style="font-size:24.48838234px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans Oblique"
@@ -1934,7 +1955,8 @@
          id="tspan4173-8-92"
          x="811.84088"
          y="920.98376"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB">Pending</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
+         transform="matrix(-1,0,0,1,4083.8673,0)">Pending</tspan></text>
     <path
        sodipodi:type="arc"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
@@ -1960,26 +1982,30 @@
        x="904.72388"
        style="font-size:8.71167374px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans Oblique"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#808080"
          y="909.96777"
          x="904.72388"
          id="tspan4379-1"
-         sodipodi:role="line">You can collaborate on the repo:</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
+         sodipodi:role="line"
+         transform="matrix(-1,0,0,1,4083.8673,0)">You can collaborate on the repo:</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#808080"
          y="920.85736"
          x="904.72388"
          sodipodi:role="line"
-         id="tspan4411-9">https://github.com/adelriosantiago/Infographic-toolkit</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
+         id="tspan4411-9"
+         transform="matrix(-1,0,0,1,4083.8673,0)">https://github.com/adelriosantiago/Infographic-toolkit</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#808080"
          y="931.74695"
          x="904.72388"
          sodipodi:role="line"
-         id="tspan4396-7" /><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
+         id="tspan4396-7"
+         transform="matrix(-1,0,0,1,4083.8673,0)" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#808080"
          y="942.63654"
          x="904.72388"
          sodipodi:role="line"
-         id="tspan4381-62" /></text>
+         id="tspan4381-62"
+         transform="matrix(-1,0,0,1,4083.8673,0)" /></text>
     <text
        xml:space="preserve"
        style="font-size:24.48838234px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans Oblique"
@@ -1991,7 +2017,8 @@
          id="tspan4173-8-2"
          x="811.84088"
          y="982.99164"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB">Pending</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
+         transform="matrix(-1,0,0,1,4083.8673,0)">Pending</tspan></text>
     <path
        sodipodi:type="arc"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
@@ -2017,26 +2044,30 @@
        x="904.72388"
        style="font-size:8.71167374px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans Oblique"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#808080"
          y="971.97565"
          x="904.72388"
          id="tspan4379-18"
-         sodipodi:role="line">You can collaborate on the repo:</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
+         sodipodi:role="line"
+         transform="matrix(-1,0,0,1,4083.8673,0)">You can collaborate on the repo:</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#808080"
          y="982.86523"
          x="904.72388"
          sodipodi:role="line"
-         id="tspan4411-1">https://github.com/adelriosantiago/Infographic-toolkit</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
+         id="tspan4411-1"
+         transform="matrix(-1,0,0,1,4083.8673,0)">https://github.com/adelriosantiago/Infographic-toolkit</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#808080"
          y="993.75482"
          x="904.72388"
          sodipodi:role="line"
-         id="tspan4396-95" /><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
+         id="tspan4396-95"
+         transform="matrix(-1,0,0,1,4083.8673,0)" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#808080"
          y="1004.6444"
          x="904.72388"
          sodipodi:role="line"
-         id="tspan4381-3" /></text>
+         id="tspan4381-3"
+         transform="matrix(-1,0,0,1,4083.8673,0)" /></text>
     <text
        xml:space="preserve"
        style="font-size:24.48838234px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans Oblique"
@@ -2048,7 +2079,8 @@
          id="tspan4173-8-52"
          x="811.84088"
          y="1044.9995"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB">Pending</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
+         transform="matrix(-1,0,0,1,4083.8673,0)">Pending</tspan></text>
     <path
        sodipodi:type="arc"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
@@ -2074,26 +2106,30 @@
        x="904.72388"
        style="font-size:8.71167374px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans Oblique"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#808080"
          y="1033.9835"
          x="904.72388"
          id="tspan4379-9"
-         sodipodi:role="line">You can collaborate on the repo:</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
+         sodipodi:role="line"
+         transform="matrix(-1,0,0,1,4083.8673,0)">You can collaborate on the repo:</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#808080"
          y="1044.8732"
          x="904.72388"
          sodipodi:role="line"
-         id="tspan4411-41">https://github.com/adelriosantiago/Infographic-toolkit</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
+         id="tspan4411-41"
+         transform="matrix(-1,0,0,1,4083.8673,0)">https://github.com/adelriosantiago/Infographic-toolkit</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#808080"
          y="1055.7627"
          x="904.72388"
          sodipodi:role="line"
-         id="tspan4396-96" /><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
+         id="tspan4396-96"
+         transform="matrix(-1,0,0,1,4083.8673,0)" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#808080"
          y="1066.6523"
          x="904.72388"
          sodipodi:role="line"
-         id="tspan4381-98" /></text>
+         id="tspan4381-98"
+         transform="matrix(-1,0,0,1,4083.8673,0)" /></text>
     <text
        xml:space="preserve"
        style="font-size:8.71167374px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans Oblique"
@@ -2105,7 +2141,8 @@
          sodipodi:role="line"
          x="812.74689"
          y="628.36865"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB">inspirataion from: handdrawngoods.com/store/jolly-ui-hand-drawn-ui-kit/</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#808080"
+         transform="matrix(-1,0,0,1,4083.8673,0)">inspirataion from: handdrawngoods.com/store/jolly-ui-hand-drawn-ui-kit/</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2141,7 +2178,8 @@
          id="tspan4173"
          x="811.84088"
          y="52.873547"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB">Foundation 3</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
+         transform="matrix(-1,0,0,1,4083.8673,0)">Foundation 3</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24.48838234px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans Oblique"
@@ -2153,7 +2191,8 @@
          id="tspan4173-8-54"
          x="811.84088"
          y="301.3306"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB">The Golden ratio and Rule of Thirds guide</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
+         transform="matrix(-1,0,0,1,4083.8673,0)">The Golden ratio and Rule of Thirds guide</tspan></text>
     <path
        sodipodi:type="arc"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
@@ -2183,7 +2222,8 @@
          id="tspan4173-8-97"
          x="811.84088"
          y="176.88925"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB">Entypo</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
+         transform="matrix(-1,0,0,1,4083.8673,0)">Entypo</tspan></text>
     <path
        sodipodi:type="arc"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
@@ -2213,7 +2253,8 @@
          id="tspan4173-8-16"
          x="811.84088"
          y="114.88138"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB">Font Awesome</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
+         transform="matrix(-1,0,0,1,4083.8673,0)">Font Awesome</tspan></text>
     <path
        sodipodi:type="arc"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
@@ -2243,17 +2284,20 @@
          sodipodi:role="line"
          x="814.53357"
          y="71.740227"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB">By ZURB (http://zurb.com/playground/foundation-icon-fonts-3)</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#808080"
+         transform="matrix(-1,0,0,1,4083.8673,0)">By ZURB (http://zurb.com/playground/foundation-icon-fonts-3)</tspan><tspan
          id="tspan5032"
          sodipodi:role="line"
          x="814.53357"
          y="82.629822"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#808080"
+         transform="matrix(-1,0,0,1,4083.8673,0)" /><tspan
          id="tspan5034"
          sodipodi:role="line"
          x="814.53357"
          y="93.519409"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB" /></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#808080"
+         transform="matrix(-1,0,0,1,4083.8673,0)" /></text>
     <path
        style="display:inline"
        id="path13144"
@@ -2649,8 +2693,7 @@
          sodipodi:cy="19.773001"
          sodipodi:rx="7.152"
          sodipodi:ry="7.152"
-         style="fill:#231f20"
-         d="m 48.681999,19.773001 c 0,3.94994 -3.20206,7.152 -7.152,7.152 -3.949941,0 -7.152,-3.20206 -7.152,-7.152 0,-3.949941 3.202059,-7.152 7.152,-7.152 3.94994,0 7.152,3.202059 7.152,7.152 z" />
+         style="fill:#231f20" />
       <path
          id="path13599"
          d="m 83.162,84.562 0.01,-0.006 -20.92,-36.234 c 0.359,-0.495 0.577,-1.098 0.577,-1.756 0,-1.263 -0.782,-2.339 -1.887,-2.783 L 54.907,40.3 45.748,31.141 c -1.311,-1.614 -3.31,-2.647 -5.552,-2.647 -2.026,0 -3.851,0.846 -5.152,2.199 l -10.632,10.631 0.012,0.012 c -0.169,0.134 -0.285,0.332 -0.285,0.564 0,0.056 0.02,0.104 0.032,0.156 h -0.029 v 11.975 c 0,0.009 -0.003,0.017 -0.003,0.025 0,1.658 1.344,3.003 3.003,3.003 1.659,0 3.002,-1.345 3.002,-3.003 0,-0.008 -0.002,-0.016 -0.002,-0.024 v -10.01 l 3.649,-3.649 V 59.18 h 0.001 l -6.954,12.044 -8.891,8.891 0.033,0.033 c -0.819,0.764 -1.339,1.843 -1.339,3.052 0,2.309 1.872,4.18 4.181,4.18 1.317,0 2.476,-0.621 3.243,-1.571 l 9.596,-9.596 -0.037,-0.037 8.096,-14.024 7.104,7.104 9.232,15.99 0.036,-0.021 c 0.715,1.278 2.066,2.153 3.635,2.153 2.309,0 4.181,-1.871 4.181,-4.18 0,-0.915 -0.302,-1.754 -0.8,-2.443 L 55.481,64.081 55.469,64.088 46.79,55.41 V 40.609 l 4.451,4.451 -10e-4,0.002 0.007,0.004 0.025,0.025 0.007,-0.007 6.847,3.954 c 0.054,0.037 0.113,0.064 0.169,0.098 l 0.028,0.016 0,-10e-4 c 0.443,0.258 0.952,0.417 1.502,0.417 0.189,0 0.372,-0.022 0.552,-0.056 l 20.816,36.054 c 0.013,0.032 0.034,0.057 0.05,0.087 l 0.007,0.012 0.001,0 c 0.189,0.351 0.552,0.598 0.982,0.598 0.621,0 1.125,-0.496 1.125,-1.109 10e-4,-0.222 -0.082,-0.418 -0.196,-0.592 z"
@@ -2714,8 +2757,7 @@
          sodipodi:cx="31.101999"
          sodipodi:cy="23.979"
          sodipodi:rx="6.9780002"
-         sodipodi:ry="6.9780002"
-         d="m 38.079999,23.979 c 0,3.853843 -3.124157,6.978 -6.978,6.978 -3.853843,0 -6.978,-3.124157 -6.978,-6.978 0,-3.853843 3.124157,-6.978 6.978,-6.978 3.853843,0 6.978,3.124157 6.978,6.978 z" />
+         sodipodi:ry="6.9780002" />
       <circle
          id="circle13680"
          r="6.9780002"
@@ -2724,8 +2766,7 @@
          sodipodi:cx="68.898003"
          sodipodi:cy="23.979"
          sodipodi:rx="6.9780002"
-         sodipodi:ry="6.9780002"
-         d="m 75.876003,23.979 c 0,3.853843 -3.124157,6.978 -6.978,6.978 -3.853843,0 -6.978001,-3.124157 -6.978001,-6.978 0,-3.853843 3.124158,-6.978 6.978001,-6.978 3.853843,0 6.978,3.124157 6.978,6.978 z" />
+         sodipodi:ry="6.9780002" />
       <circle
          id="circle13682"
          r="6.9780002"
@@ -2734,8 +2775,7 @@
          sodipodi:cx="31.101999"
          sodipodi:cy="50"
          sodipodi:rx="6.9780002"
-         sodipodi:ry="6.9780002"
-         d="m 38.079999,50 c 0,3.853843 -3.124157,6.978 -6.978,6.978 -3.853843,0 -6.978,-3.124157 -6.978,-6.978 0,-3.853843 3.124157,-6.978 6.978,-6.978 3.853843,0 6.978,3.124157 6.978,6.978 z" />
+         sodipodi:ry="6.9780002" />
       <circle
          id="circle13684"
          r="6.9780002"
@@ -2744,8 +2784,7 @@
          sodipodi:cx="68.898003"
          sodipodi:cy="50"
          sodipodi:rx="6.9780002"
-         sodipodi:ry="6.9780002"
-         d="m 75.876003,50 c 0,3.853843 -3.124157,6.978 -6.978,6.978 -3.853843,0 -6.978001,-3.124157 -6.978001,-6.978 0,-3.853843 3.124158,-6.978 6.978001,-6.978 3.853843,0 6.978,3.124157 6.978,6.978 z" />
+         sodipodi:ry="6.9780002" />
       <circle
          id="circle13686"
          r="6.9780002"
@@ -2754,8 +2793,7 @@
          sodipodi:cx="31.101999"
          sodipodi:cy="76.019997"
          sodipodi:rx="6.9780002"
-         sodipodi:ry="6.9780002"
-         d="m 38.079999,76.019997 c 0,3.853843 -3.124157,6.978 -6.978,6.978 -3.853843,0 -6.978,-3.124157 -6.978,-6.978 0,-3.853843 3.124157,-6.978001 6.978,-6.978001 3.853843,0 6.978,3.124158 6.978,6.978001 z" />
+         sodipodi:ry="6.9780002" />
       <circle
          id="circle13688"
          r="6.9780002"
@@ -2764,8 +2802,7 @@
          sodipodi:cx="68.898003"
          sodipodi:cy="76.019997"
          sodipodi:rx="6.9780002"
-         sodipodi:ry="6.9780002"
-         d="m 75.876003,76.019997 c 0,3.853843 -3.124157,6.978 -6.978,6.978 -3.853843,0 -6.978001,-3.124157 -6.978001,-6.978 0,-3.853843 3.124158,-6.978001 6.978001,-6.978001 3.853843,0 6.978,3.124158 6.978,6.978001 z" />
+         sodipodi:ry="6.9780002" />
     </g>
     <g
        style="display:inline"
@@ -2833,8 +2870,7 @@
          sodipodi:cx="50.041"
          sodipodi:cy="53.256001"
          sodipodi:rx="9.5129995"
-         sodipodi:ry="9.5129995"
-         d="m 59.554,53.256001 c 0,5.253884 -4.259115,9.512999 -9.513,9.512999 -5.253884,0 -9.512999,-4.259115 -9.512999,-9.512999 0,-5.253885 4.259115,-9.513 9.512999,-9.513 5.253885,0 9.513,4.259115 9.513,9.513 z" />
+         sodipodi:ry="9.5129995" />
       <path
          id="path13775"
          d="M 86.778,24.2 V 24.163 H 70.111 v -2.792 c 0,-2.056 -1.667,-3.722 -3.722,-3.722 H 33.611 c -2.056,0 -3.723,1.666 -3.723,3.722 v 2.792 H 13.221 V 24.2 C 11.165,24.2 9.5,25.866 9.5,27.922 v 50.669 c 0,2.056 1.665,3.722 3.721,3.722 v 0.037 h 73.557 v -0.037 c 2.055,0 3.722,-1.667 3.722,-3.722 V 27.922 C 90.5,25.866 88.833,24.2 86.778,24.2 z M 50.247,72.542 c -10.651,0 -19.286,-8.634 -19.286,-19.286 0,-10.651 8.635,-19.286 19.286,-19.286 10.652,0 19.287,8.635 19.287,19.286 10e-4,10.652 -8.635,19.286 -19.287,19.286 z M 85.513,39.145 h -14.74 v -9.957 h 14.739 v 9.957 z"
@@ -3083,8 +3119,7 @@
          sodipodi:cy="27.129999"
          sodipodi:rx="6.0419998"
          sodipodi:ry="6.0419998"
-         style="fill-rule:evenodd"
-         d="m 28.389999,27.129999 c 0,3.336905 -2.705095,6.042 -6.041999,6.042 -3.336905,0 -6.042,-2.705095 -6.042,-6.042 0,-3.336904 2.705095,-6.042 6.042,-6.042 3.336904,0 6.041999,2.705096 6.041999,6.042 z" />
+         style="fill-rule:evenodd" />
       <circle
          id="circle14064"
          r="6.0419998"
@@ -3095,8 +3130,7 @@
          sodipodi:cy="27.129999"
          sodipodi:rx="6.0419998"
          sodipodi:ry="6.0419998"
-         style="fill-rule:evenodd"
-         d="m 83.389999,27.129999 c 0,3.336905 -2.705095,6.042 -6.041999,6.042 -3.336905,0 -6.042,-2.705095 -6.042,-6.042 0,-3.336904 2.705095,-6.042 6.042,-6.042 3.336904,0 6.041999,2.705096 6.041999,6.042 z" />
+         style="fill-rule:evenodd" />
       <circle
          id="circle14066"
          r="6.0419998"
@@ -3107,8 +3141,7 @@
          sodipodi:cy="19.129999"
          sodipodi:rx="6.0419998"
          sodipodi:ry="6.0419998"
-         style="fill-rule:evenodd"
-         d="m 56.389999,19.129999 c 0,3.336905 -2.705095,6.042 -6.041999,6.042 -3.336905,0 -6.042,-2.705095 -6.042,-6.042 0,-3.336904 2.705095,-6.042 6.042,-6.042 3.336904,0 6.041999,2.705096 6.041999,6.042 z" />
+         style="fill-rule:evenodd" />
     </g>
     <g
        style="display:inline"
@@ -3289,8 +3322,7 @@
          sodipodi:cy="31.993"
          sodipodi:rx="4.9549999"
          sodipodi:ry="4.9549999"
-         style="fill:#231f20"
-         d="m 32.952999,31.993 c 0,2.736571 -2.218429,4.955 -4.955,4.955 -2.736571,0 -4.955,-2.218429 -4.955,-4.955 0,-2.736571 2.218429,-4.955 4.955,-4.955 2.736571,0 4.955,2.218429 4.955,4.955 z" />
+         style="fill:#231f20" />
       <path
          id="path14287"
          d="M 37.38,38.28 V 38.256 H 19.628 v 0.017 c -1.283,0 -2.323,1.036 -2.332,2.316 h -0.002 v 14.04 h 0.023 c -0.001,0.535 0.202,1.07 0.61,1.478 0.813,0.814 2.133,0.814 2.947,0 0.407,-0.408 0.61,-0.943 0.609,-1.478 h 0.005 V 44.93 44.827 h 0.006 c 0.015,-0.354 0.302,-0.638 0.66,-0.638 0.358,0 0.646,0.283 0.661,0.638 h 0.006 v 0.103 6.254 19.344 c 0.002,1.345 1.091,2.434 2.437,2.434 1.345,0 2.437,-1.091 2.437,-2.437 V 57.584 h 0.018 c 0,-0.373 0.302,-0.675 0.675,-0.675 0.373,0 0.675,0.302 0.675,0.675 h 0.017 v 12.941 c 0,1.346 1.092,2.437 2.437,2.437 1.346,0 2.437,-1.091 2.437,-2.437 V 57.584 51.185 44.931 44.828 c 0,-0.369 0.298,-0.667 0.666,-0.667 0.367,0 0.665,0.298 0.665,0.667 v 0.103 9.699 h 0.023 c -10e-4,0.535 0.202,1.07 0.61,1.478 0.814,0.814 2.133,0.814 2.947,0 0.408,-0.408 0.611,-0.943 0.61,-1.478 h 0.004 V 40.59 C 39.477,39.383 38.556,38.401 37.38,38.28 z"
@@ -3305,8 +3337,7 @@
          sodipodi:cy="31.993"
          sodipodi:rx="4.9549999"
          sodipodi:ry="4.9549999"
-         style="fill:#231f20"
-         d="m 58.286001,31.993 c 0,2.736571 -2.218429,4.955 -4.955,4.955 -2.736571,0 -4.955,-2.218429 -4.955,-4.955 0,-2.736571 2.218429,-4.955 4.955,-4.955 2.736571,0 4.955,2.218429 4.955,4.955 z" />
+         style="fill:#231f20" />
       <path
          id="path14291"
          d="M 62.713,38.28 V 38.256 H 44.961 v 0.017 c -1.283,0 -2.323,1.036 -2.332,2.316 h -0.002 v 14.04 h 0.023 c -10e-4,0.535 0.202,1.07 0.61,1.478 0.813,0.814 2.133,0.814 2.947,0 0.407,-0.408 0.61,-0.943 0.609,-1.478 h 0.005 V 44.93 44.827 h 0.006 c 0.015,-0.354 0.302,-0.638 0.66,-0.638 0.358,0 0.646,0.283 0.661,0.638 h 0.006 v 0.103 6.254 19.344 c 0.002,1.345 1.091,2.434 2.437,2.434 1.345,0 2.437,-1.091 2.437,-2.437 V 57.584 h 0.018 c 0,-0.373 0.302,-0.675 0.675,-0.675 0.373,0 0.675,0.302 0.675,0.675 h 0.017 v 12.941 c 0,1.346 1.092,2.437 2.437,2.437 1.346,0 2.437,-1.091 2.437,-2.437 V 57.584 51.185 44.931 44.828 c 0,-0.369 0.298,-0.667 0.666,-0.667 0.367,0 0.665,0.298 0.665,0.667 v 0.103 9.699 h 0.023 c -10e-4,0.535 0.202,1.07 0.61,1.478 0.814,0.814 2.133,0.814 2.947,0 0.408,-0.408 0.611,-0.943 0.61,-1.478 h 0.004 V 40.59 c -0.003,-1.207 -0.923,-2.189 -2.099,-2.31 z"
@@ -3338,8 +3369,7 @@
          sodipodi:cx="49.990002"
          sodipodi:cy="50.077"
          sodipodi:rx="8.5120001"
-         sodipodi:ry="8.5120001"
-         d="m 58.502002,50.077 c 0,4.701048 -3.810952,8.512 -8.512,8.512 -4.701048,0 -8.512,-3.810952 -8.512,-8.512 0,-4.701048 3.810952,-8.512 8.512,-8.512 4.701048,0 8.512,3.810952 8.512,8.512 z" />
+         sodipodi:ry="8.5120001" />
     </g>
     <g
        style="display:inline"
@@ -3363,8 +3393,7 @@
          sodipodi:cy="20.202999"
          sodipodi:rx="8.1999998"
          sodipodi:ry="8.1999998"
-         style="fill:#231f20"
-         d="m 57.443999,20.202999 c 0,4.528735 -3.671265,8.2 -8.2,8.2 -4.528734,0 -8.199999,-3.671265 -8.199999,-8.2 0,-4.528735 3.671265,-8.2 8.199999,-8.2 4.528735,0 8.2,3.671265 8.2,8.2 z" />
+         style="fill:#231f20" />
       <path
          id="path14354"
          d="M 72.147,54.101 66.677,33.687 C 66.674,33.671 66.668,33.656 66.664,33.64 l -0.096,-0.359 -0.014,0.004 c -0.499,-1.556 -1.94,-2.69 -3.662,-2.69 -0.013,0 -0.026,0.004 -0.039,0.004 V 30.528 H 37.108 v 0.067 c -1.722,0 -3.163,1.134 -3.662,2.69 l -0.014,-0.004 -0.096,0.358 c -0.004,0.017 -0.01,0.032 -0.013,0.049 l -5.47,20.413 0.052,0.014 c -0.025,0.169 -0.052,0.337 -0.052,0.513 0,1.924 1.56,3.485 3.485,3.485 1.474,0 2.727,-0.919 3.236,-2.212 l 0.024,0.006 4.013,-14.974 v 0.057 h 0.031 c 0.11,-0.493 0.529,-0.869 1.054,-0.869 0.526,0 0.945,0.377 1.055,0.869 h 0.033 v 0.161 c 0.002,0.025 0.014,0.046 0.014,0.071 0,0.025 -0.013,0.046 -0.014,0.071 v 0.153 L 34.36,65.424 c -0.104,0.211 -0.167,0.442 -0.184,0.688 l -0.014,0.051 0.008,0.002 c -0.001,0.027 -0.008,0.053 -0.008,0.081 0,1.033 0.838,1.87 1.871,1.87 h 4.751 v 15.849 c 0,2.226 1.805,4.032 4.032,4.032 2.227,0 4.032,-1.805 4.032,-4.032 l 0,-15.849 h 2.293 v 15.849 c 0,2.226 1.806,4.032 4.033,4.032 2.227,0 4.032,-1.805 4.032,-4.032 V 68.116 h 4.765 c 1.033,0 1.871,-0.837 1.871,-1.87 0,-0.028 -0.007,-0.054 -0.008,-0.081 l 0.008,-0.002 -0.014,-0.051 C 65.81,65.866 65.747,65.635 65.644,65.424 L 59.24,41.52 59.261,41.514 c -0.027,-0.095 -0.059,-0.188 -0.059,-0.291 0,-0.608 0.493,-1.102 1.102,-1.102 0.518,0 0.932,0.365 1.05,0.847 l 0.042,-0.011 4.006,14.951 0.024,-0.006 c 0.509,1.293 1.762,2.212 3.236,2.212 1.925,0 3.485,-1.561 3.485,-3.485 0,-0.176 -0.027,-0.344 -0.052,-0.513 l 0.052,-0.015 z"
@@ -3466,8 +3495,7 @@
          sodipodi:cx="28.549"
          sodipodi:cy="35.884998"
          sodipodi:rx="4.342"
-         sodipodi:ry="4.342"
-         d="m 32.891,35.884998 c 0,2.398021 -1.94398,4.342 -4.342,4.342 -2.398021,0 -4.342,-1.943979 -4.342,-4.342 0,-2.39802 1.943979,-4.342 4.342,-4.342 2.39802,0 4.342,1.94398 4.342,4.342 z" />
+         sodipodi:ry="4.342" />
       <circle
          id="circle14476"
          r="8.7670002"
@@ -3476,8 +3504,7 @@
          sodipodi:cx="65.793999"
          sodipodi:cy="15.531"
          sodipodi:rx="8.7670002"
-         sodipodi:ry="8.7670002"
-         d="m 74.560999,15.531 c 0,4.841881 -3.92512,8.767 -8.767,8.767 -4.841881,0 -8.767,-3.925119 -8.767,-8.767 0,-4.84188 3.925119,-8.7670001 8.767,-8.7670001 4.84188,0 8.767,3.9251201 8.767,8.7670001 z" />
+         sodipodi:ry="8.7670002" />
       <circle
          id="circle14478"
          r="5.4689999"
@@ -3486,8 +3513,7 @@
          sodipodi:cx="47.712002"
          sodipodi:cy="18.329"
          sodipodi:rx="5.4689999"
-         sodipodi:ry="5.4689999"
-         d="m 53.181002,18.329 c 0,3.020446 -2.448555,5.469 -5.469,5.469 -3.020445,0 -5.469,-2.448554 -5.469,-5.469 0,-3.020445 2.448555,-5.468999 5.469,-5.468999 3.020445,0 5.469,2.448554 5.469,5.468999 z" />
+         sodipodi:ry="5.4689999" />
       <path
          id="path14480"
          d="m 72.903,74.043 c -1.387,-2.237 -2.202,-4.867 -2.202,-7.693 0,-2.464 0.616,-4.782 1.692,-6.82 l -0.034,-0.051 c 2.168,-3.252 3.436,-7.155 3.436,-11.356 0,-11.326 -9.182,-20.507 -20.507,-20.507 -11.326,0 -20.507,9.181 -20.507,20.507 0,2.212 0.36,4.338 1.009,6.335 0.436,1.792 1.139,3.475 2.068,5.011 l -0.096,0.055 14.854,25.729 c 1.568,4.64 5.947,7.984 11.115,7.984 6.484,0 11.743,-5.256 11.743,-11.741 0,-2.813 -0.992,-5.394 -2.643,-7.416 l 0.072,-0.037 z"
@@ -3500,8 +3526,7 @@
          sodipodi:cx="36.160999"
          sodipodi:cy="26.693001"
          sodipodi:rx="4.342"
-         sodipodi:ry="4.342"
-         d="m 40.502999,26.693001 c 0,2.39802 -1.943979,4.342 -4.342,4.342 -2.39802,0 -4.342,-1.94398 -4.342,-4.342 0,-2.398021 1.94398,-4.342 4.342,-4.342 2.398021,0 4.342,1.943979 4.342,4.342 z" />
+         sodipodi:ry="4.342" />
     </g>
     <g
        style="display:inline"
@@ -3949,8 +3974,7 @@
          sodipodi:cx="12.856"
          sodipodi:cy="25.108"
          sodipodi:rx="4.9840002"
-         sodipodi:ry="4.9840002"
-         d="m 17.84,25.108 c 0,2.752587 -2.231413,4.984 -4.984,4.984 -2.752587,0 -4.9840003,-2.231413 -4.9840003,-4.984 0,-2.752588 2.2314133,-4.984 4.9840003,-4.984 2.752587,0 4.984,2.231412 4.984,4.984 z" />
+         sodipodi:ry="4.9840002" />
       <circle
          id="circle14945"
          r="4.9840002"
@@ -3959,8 +3983,7 @@
          sodipodi:cx="12.856"
          sodipodi:cy="49.001999"
          sodipodi:rx="4.9840002"
-         sodipodi:ry="4.9840002"
-         d="m 17.84,49.001999 c 0,2.752587 -2.231413,4.984 -4.984,4.984 -2.752587,0 -4.9840003,-2.231413 -4.9840003,-4.984 0,-2.752587 2.2314133,-4.984 4.9840003,-4.984 2.752587,0 4.984,2.231413 4.984,4.984 z" />
+         sodipodi:ry="4.9840002" />
       <circle
          id="circle14947"
          r="4.9840002"
@@ -3969,8 +3992,7 @@
          sodipodi:cx="12.856"
          sodipodi:cy="74.890999"
          sodipodi:rx="4.9840002"
-         sodipodi:ry="4.9840002"
-         d="m 17.84,74.890999 c 0,2.752587 -2.231413,4.984 -4.984,4.984 -2.752587,0 -4.9840003,-2.231413 -4.9840003,-4.984 0,-2.752587 2.2314133,-4.984 4.9840003,-4.984 2.752587,0 4.984,2.231413 4.984,4.984 z" />
+         sodipodi:ry="4.9840002" />
     </g>
     <g
        style="display:inline"
@@ -4094,8 +4116,7 @@
          sodipodi:cy="19.938"
          sodipodi:rx="8.2720003"
          sodipodi:ry="8.2720003"
-         style="fill:#231f20"
-         d="m 57.626,19.938 c 0,4.568499 -3.7035,8.272 -8.272,8.272 -4.5685,0 -8.272,-3.703501 -8.272,-8.272 0,-4.5685 3.7035,-8.272001 8.272,-8.272001 4.5685,0 8.272,3.703501 8.272,8.272001 z" />
+         style="fill:#231f20" />
       <path
          id="path15084"
          d="m 65.016,30.435 v -0.04 H 35.38 v 0.027 c -2.142,0 -3.878,1.729 -3.894,3.867 h -0.003 v 23.439 h 0.039 c -0.002,0.893 0.337,1.786 1.018,2.467 1.358,1.359 3.56,1.359 4.919,0 0.68,-0.681 1.019,-1.574 1.017,-2.467 h 0.008 V 41.537 41.365 h 0.009 c 0.025,-0.592 0.505,-1.064 1.101,-1.064 0.598,0 1.078,0.473 1.103,1.064 h 0.009 v 0.172 10.44 32.293 c 0.003,2.245 1.822,4.063 4.068,4.063 2.246,0 4.068,-1.821 4.068,-4.068 V 62.661 h 0.03 c 0,-0.623 0.504,-1.128 1.126,-1.128 0.622,0 1.127,0.505 1.127,1.128 h 0.029 v 21.604 c 0,2.247 1.823,4.068 4.069,4.068 2.247,0 4.068,-1.821 4.068,-4.068 V 62.661 51.978 41.538 41.366 c 0,-0.615 0.497,-1.112 1.112,-1.112 0.613,0 1.11,0.497 1.11,1.112 v 0.172 16.191 h 0.038 c -0.002,0.893 0.337,1.786 1.018,2.467 1.359,1.359 3.561,1.359 4.92,0 0.681,-0.681 1.02,-1.574 1.018,-2.467 h 0.007 v -23.44 c 0.002,-2.015 -1.535,-3.653 -3.498,-3.854 z"
@@ -4117,8 +4138,7 @@
            sodipodi:cy="19.721001"
            sodipodi:rx="8.2720003"
            sodipodi:ry="8.2720003"
-           style="fill:#231f20"
-           d="m 30.608001,19.721001 c 0,4.568499 -3.703501,8.272 -8.272001,8.272 -4.568499,0 -8.272,-3.703501 -8.272,-8.272 0,-4.5685 3.703501,-8.272001 8.272,-8.272001 4.5685,0 8.272001,3.703501 8.272001,8.272001 z" />
+           style="fill:#231f20" />
         <path
            id="path15102"
            d="m 37.999,30.217 v -0.04 H 8.363 v 0.027 c -2.142,0 -3.878,1.729 -3.894,3.867 H 4.466 V 57.51 h 0.039 c -0.002,0.893 0.337,1.786 1.018,2.467 1.358,1.359 3.56,1.359 4.919,0 0.68,-0.681 1.019,-1.574 1.017,-2.467 h 0.008 V 41.32 41.148 h 0.009 c 0.025,-0.592 0.505,-1.064 1.101,-1.064 0.598,0 1.078,0.473 1.103,1.064 h 0.009 v 0.172 10.44 32.293 c 0.003,2.245 1.822,4.063 4.068,4.063 2.246,0 4.068,-1.821 4.068,-4.068 V 62.444 h 0.03 c 0,-0.623 0.504,-1.128 1.126,-1.128 0.622,0 1.127,0.505 1.127,1.128 h 0.029 v 21.604 c 0,2.247 1.823,4.068 4.069,4.068 2.247,0 4.068,-1.821 4.068,-4.068 V 62.444 51.76 41.32 41.148 c 0,-0.615 0.497,-1.112 1.112,-1.112 0.613,0 1.11,0.497 1.11,1.112 v 0.172 16.191 h 0.038 c -0.002,0.893 0.337,1.786 1.018,2.467 1.359,1.359 3.561,1.359 4.92,0 0.681,-0.681 1.02,-1.574 1.018,-2.467 h 0.007 V 34.072 c 0.002,-2.015 -1.535,-3.654 -3.498,-3.855 z"
@@ -4136,8 +4156,7 @@
            sodipodi:cy="19.768"
            sodipodi:rx="8.3199997"
            sodipodi:ry="8.3199997"
-           style="fill:#231f20"
-           d="m 80.616997,19.768 c 0,4.595009 -3.724991,8.319999 -8.32,8.319999 -4.595009,0 -8.32,-3.72499 -8.32,-8.319999 0,-4.595009 3.724991,-8.32 8.32,-8.32 4.595009,0 8.32,3.724991 8.32,8.32 z" />
+           style="fill:#231f20" />
         <path
            id="path15108"
            d="m 95.534,54.161 -5.55,-20.712 c -0.003,-0.016 -0.009,-0.032 -0.013,-0.048 l -0.098,-0.365 -0.014,0.004 c -0.506,-1.579 -1.968,-2.729 -3.715,-2.729 -0.014,0 -0.026,0.004 -0.04,0.004 v -0.072 h -26.12 v 0.068 c -1.747,0 -3.209,1.151 -3.715,2.729 L 56.255,33.036 56.157,33.4 c -0.004,0.017 -0.01,0.033 -0.013,0.05 l -5.55,20.711 0.052,0.014 c -0.025,0.171 -0.052,0.342 -0.052,0.52 0,1.952 1.583,3.536 3.536,3.536 1.495,0 2.767,-0.932 3.283,-2.244 l 0.025,0.007 4.071,-15.193 v 0.057 h 0.032 c 0.111,-0.5 0.536,-0.882 1.07,-0.882 0.534,0 0.959,0.382 1.07,0.882 h 0.033 v 0.164 c 0.002,0.025 0.015,0.047 0.015,0.072 0,0.025 -0.013,0.047 -0.015,0.072 v 0.155 l -6.518,24.326 c -0.105,0.214 -0.169,0.449 -0.187,0.698 l -0.014,0.051 0.008,0.002 c -10e-4,0.028 -0.008,0.054 -0.008,0.082 0,1.048 0.85,1.897 1.898,1.897 h 4.82 v 16.08 c 0,2.259 1.831,4.09 4.091,4.09 2.259,0 4.091,-1.832 4.091,-4.09 l 0,-16.08 h 2.326 v 16.08 c 0,2.259 1.832,4.09 4.091,4.09 2.26,0 4.091,-1.832 4.091,-4.09 v -16.08 h 4.835 c 1.048,0 1.898,-0.849 1.898,-1.897 0,-0.028 -0.007,-0.055 -0.008,-0.082 l 0.008,-0.002 -0.014,-0.051 C 89.104,66.096 89.04,65.861 88.935,65.647 l -6.499,-24.253 0.021,-0.006 c -0.027,-0.096 -0.06,-0.191 -0.06,-0.296 0,-0.616 0.5,-1.118 1.118,-1.118 0.525,0 0.946,0.371 1.065,0.86 l 0.043,-0.011 4.065,15.169 0.024,-0.007 c 0.517,1.312 1.788,2.244 3.283,2.244 1.953,0 3.536,-1.584 3.536,-3.536 0,-0.178 -0.027,-0.349 -0.052,-0.52 l 0.055,-0.012 z"
@@ -4686,8 +4705,7 @@
          sodipodi:cx="50.702999"
          sodipodi:cy="26.877001"
          sodipodi:rx="11.175"
-         sodipodi:ry="11.175"
-         d="m 61.877999,26.877001 c 0,6.171782 -5.003218,11.175 -11.175,11.175 -6.171782,0 -11.175,-5.003218 -11.175,-11.175 0,-6.171782 5.003218,-11.175 11.175,-11.175 6.171782,0 11.175,5.003218 11.175,11.175 z" />
+         sodipodi:ry="11.175" />
     </g>
     <g
        style="display:inline"
@@ -4729,8 +4747,7 @@
          sodipodi:cy="38.584"
          sodipodi:rx="10.1"
          sodipodi:ry="10.1"
-         style="fill:#231f20"
-         d="m 78.222002,38.584 c 0,5.578076 -4.521924,10.1 -10.1,10.1 -5.578077,0 -10.100001,-4.521924 -10.100001,-10.1 0,-5.578077 4.521924,-10.100001 10.100001,-10.100001 5.578076,0 10.1,4.521924 10.1,10.100001 z" />
+         style="fill:#231f20" />
     </g>
     <g
        style="display:inline"
@@ -5101,8 +5118,7 @@
          sodipodi:cx="32.960999"
          sodipodi:cy="81.019997"
          sodipodi:rx="5.8889999"
-         sodipodi:ry="5.8889999"
-         d="m 38.849998,81.019997 c 0,3.252405 -2.636595,5.889 -5.888999,5.889 -3.252405,0 -5.889,-2.636595 -5.889,-5.889 0,-3.252405 2.636595,-5.889 5.889,-5.889 3.252404,0 5.888999,2.636595 5.888999,5.889 z" />
+         sodipodi:ry="5.8889999" />
       <circle
          id="circle16240"
          r="5.8889999"
@@ -5111,8 +5127,7 @@
          sodipodi:cx="74.308998"
          sodipodi:cy="81.019997"
          sodipodi:rx="5.8889999"
-         sodipodi:ry="5.8889999"
-         d="m 80.197998,81.019997 c 0,3.252405 -2.636595,5.889 -5.889,5.889 -3.252405,0 -5.889,-2.636595 -5.889,-5.889 0,-3.252405 2.636595,-5.889 5.889,-5.889 3.252405,0 5.889,2.636595 5.889,5.889 z" />
+         sodipodi:ry="5.8889999" />
       <path
          id="path16242"
          d="m 73.513,55.216 c 1.377,0 2.556,-0.812 3.11,-1.978 l 0.003,0.002 14.589,-25.27 -0.018,-0.01 c 0.214,-0.449 0.344,-0.946 0.344,-1.477 0,-1.907 -1.545,-3.452 -3.452,-3.452 h 0 -14.576 -28.584 -10.43 v -6.488 h 0 c 0,-1.907 -1.545,-3.452 -3.452,-3.452 h 0 0 -18.861 v 0.028 c -0.092,-0.008 -0.181,-0.028 -0.275,-0.028 -1.763,0 -3.202,1.327 -3.41,3.035 H 8.459 v 3.452 0 c 0,1.907 1.545,3.452 3.452,3.452 0.094,0 0.183,-0.021 0.275,-0.028 v 0.028 h 12.373 v 43.733 h 10e-4 c 0.005,1.902 1.548,3.442 3.451,3.442 0,0 0.001,0 0.002,0 v 0 H 87.267 V 70.12 c 1.633,-0.103 2.948,-1.329 3.185,-2.922 h 0.049 v -0.49 c 0,-0.006 0.002,-0.012 0.002,-0.018 0,-0.006 -0.002,-0.012 -0.002,-0.018 V 63.67 c 0,-0.006 0.002,-0.012 0.002,-0.018 0,-1.833 -1.432,-3.316 -3.236,-3.429 V 60.201 H 34.498 v -4.988 h 39.015 z"
@@ -5281,8 +5296,7 @@
          sodipodi:cx="50.155998"
          sodipodi:cy="56.277"
          sodipodi:rx="19.382999"
-         sodipodi:ry="13.568"
-         d="m 69.538998,56.277 c 0,7.4934 -8.678065,13.568 -19.383,13.568 -10.704935,0 -19.382999,-6.0746 -19.382999,-13.568 0,-7.493399 8.678064,-13.567999 19.382999,-13.567999 10.704935,0 19.383,6.0746 19.383,13.567999 z" />
+         sodipodi:ry="13.568" />
       <path
          id="path16408"
          d="M 77.132,38.339 C 70.069,33.431 61.168,31.008 52.555,30.56 42.388,30.458 32.514,31.784 23.473,38.074 v -19.34 h -11.32 v 35.044 c -0.129,14.675 9.747,20.961 22.465,25.78 4.621,1.14 9.741,1.709 15.36,1.709 5.526,0 10.588,-0.569 15.186,-1.709 4.597,-1.141 8.568,-2.973 11.912,-4.984 3.344,-2.012 5.944,-4.365 7.802,-7.061 1.857,-2.694 2.786,-5.572 2.786,-8.63 C 89.094,48.444 81.907,41.657 77.132,38.339 z M 53.313,75.017 C 40.595,75.415 25.689,71.576 24.243,56.656 23.439,48.365 31.696,37.926 49.978,37.282 57.495,37.017 75.03,41.209 76.227,55.373 76.964,64.104 66.031,74.62 53.313,75.017 z"
@@ -5630,8 +5644,7 @@
          sodipodi:cx="47.046001"
          sodipodi:cy="40.984001"
          sodipodi:rx="12.703"
-         sodipodi:ry="12.656"
-         d="m 59.749002,40.984001 c 0,6.989716 -5.687327,12.656 -12.703001,12.656 -7.015673,0 -12.703,-5.666284 -12.703,-12.656 0,-6.989716 5.687327,-12.656 12.703,-12.656 7.015674,0 12.703001,5.666284 12.703001,12.656 z" />
+         sodipodi:ry="12.656" />
       <path
          id="path16803"
          d="m 18.214,55.984 c 6.313,0 11.433,-5.096 11.433,-11.386 0,-6.292 -5.12,-11.39 -11.433,-11.39 -6.315,0 -11.433,5.098 -11.433,11.39 0,6.291 5.117,11.386 11.433,11.386 z"
@@ -6215,8 +6228,7 @@
          sodipodi:cx="49.984001"
          sodipodi:cy="50"
          sodipodi:rx="7.6209998"
-         sodipodi:ry="7.6209998"
-         d="m 57.605001,50 c 0,4.208962 -3.412038,7.621 -7.621,7.621 -4.208962,0 -7.621,-3.412038 -7.621,-7.621 0,-4.208962 3.412038,-7.621 7.621,-7.621 4.208962,0 7.621,3.412038 7.621,7.621 z" />
+         sodipodi:ry="7.6209998" />
     </g>
     <g
        style="display:inline"
@@ -6564,8 +6576,7 @@
          sodipodi:cy="32.546001"
          sodipodi:rx="4.723"
          sodipodi:ry="4.723"
-         style="fill:#231f20"
-         d="m 54.353001,32.546001 c 0,2.608441 -2.114559,4.723 -4.723,4.723 -2.608441,0 -4.723,-2.114559 -4.723,-4.723 0,-2.60844 2.114559,-4.723 4.723,-4.723 2.608441,0 4.723,2.11456 4.723,4.723 z" />
+         style="fill:#231f20" />
       <path
          id="path17789"
          d="M 65.892,48.189 56.919,39.215 C 56.89,39.184 56.86,39.155 56.83,39.126 l -0.061,-0.061 -0.006,0.006 c -0.391,-0.342 -0.897,-0.556 -1.457,-0.556 -0.051,0 -0.098,0.012 -0.148,0.015 H 44.703 c -0.003,0 -0.005,-10e-4 -0.008,-10e-4 -0.561,0 -1.067,0.214 -1.458,0.557 l -0.005,-0.005 -0.055,0.055 c -0.035,0.032 -0.068,0.065 -0.1,0.1 l -8.968,8.968 0.015,0.015 c -0.361,0.359 -0.584,0.856 -0.584,1.406 0,1.097 0.889,1.986 1.986,1.986 0.549,0 1.046,-0.223 1.406,-0.583 l 0.003,0.003 6.673,-6.673 v 0.004 c 0.115,-0.118 0.275,-0.192 0.452,-0.192 0.35,0 0.634,0.284 0.634,0.635 h 0 v 6.032 6.1 12.334 c 0,1.282 1.04,2.322 2.323,2.322 1.282,0 2.322,-1.04 2.322,-2.322 V 56.935 h 0.017 c 0,-0.356 0.288,-0.644 0.643,-0.644 0.355,0 0.643,0.288 0.643,0.644 h 0.017 v 12.334 c 0,1.282 1.04,2.322 2.322,2.322 1.283,0 2.323,-1.04 2.323,-2.322 v -12.334 -6.1 -5.96 h 0.02 c -0.005,-0.034 -0.02,-0.064 -0.02,-0.099 0,-0.35 0.284,-0.633 0.635,-0.633 0.155,0 0.292,0.062 0.402,0.155 v -0.007 l 0.021,0.021 c 0.015,0.014 0.029,0.027 0.042,0.042 l 6.66,6.661 0.003,-0.003 c 0.36,0.36 0.857,0.583 1.406,0.583 1.097,0 1.986,-0.889 1.986,-1.986 0,-0.549 -0.223,-1.046 -0.584,-1.406 l 0.017,-0.014 z"
@@ -6743,8 +6754,7 @@
          sodipodi:cx="68.862"
          sodipodi:cy="21.181"
          sodipodi:rx="7.152"
-         sodipodi:ry="7.152"
-         d="m 76.013999,21.181 c 0,3.94994 -3.202059,7.152 -7.151999,7.152 -3.949941,0 -7.152,-3.20206 -7.152,-7.152 0,-3.949941 3.202059,-7.152 7.152,-7.152 3.94994,0 7.151999,3.202059 7.151999,7.152 z" />
+         sodipodi:ry="7.152" />
       <path
          id="path17986"
          d="M 73.35,45.582 H 57.609 l 8.977,-8.978 c 0.271,-0.215 0.515,-0.458 0.73,-0.729 l 0.073,-0.073 -0.007,-0.007 c 0.569,-0.752 0.919,-1.679 0.919,-2.694 0,-1.623 -0.869,-3.031 -2.159,-3.819 L 66.143,29.281 46.04,17.675 46.023,17.705 C 45.459,17.45 44.839,17.3 44.18,17.3 c -1.152,0 -2.191,0.447 -2.986,1.16 l -0.006,-0.006 -0.06,0.06 c -0.077,0.072 -0.15,0.145 -0.222,0.222 l -8.865,8.865 0.008,0.008 c -0.762,0.804 -1.237,1.884 -1.237,3.08 0,2.479 2.009,4.487 4.487,4.487 1.196,0 2.276,-0.475 3.08,-1.237 l 0.008,0.008 0.081,-0.081 c 0.003,-0.003 0.005,-0.005 0.008,-0.008 l 6.457,-6.457 5.514,3.184 -13.011,13.012 c -2.514,0.775 -4.823,2.008 -6.854,3.582 l 5.307,5.307 c 2.255,-1.564 4.988,-2.487 7.94,-2.487 7.707,0 13.954,6.248 13.954,13.954 0,2.952 -0.922,5.686 -2.487,7.94 l 5.666,5.667 c 2.839,-3.665 4.534,-8.261 4.534,-13.256 0,-3.507 -0.838,-6.816 -2.317,-9.746 h 5.683 v 18.371 c 0,2.479 2.009,4.488 4.488,4.488 2.479,0 4.488,-2.01 4.488,-4.488 v -22.86 c 0,-2.478 -2.01,-4.487 -4.488,-4.487 z"
@@ -10517,21 +10527,24 @@
        x="814.53357"
        style="font-size:8.71167374px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans Oblique"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#808080"
          y="133.31482"
          x="814.53357"
          sodipodi:role="line"
-         id="tspan7733">By Font Awesome (https://fortawesome.github.io/)</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
+         id="tspan7733"
+         transform="matrix(-1,0,0,1,4083.8673,0)">By Font Awesome (https://fortawesome.github.io/)</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#808080"
          y="144.20441"
          x="814.53357"
          sodipodi:role="line"
-         id="tspan7735" /><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
+         id="tspan7735"
+         transform="matrix(-1,0,0,1,4083.8673,0)" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#808080"
          y="155.09401"
          x="814.53357"
          sodipodi:role="line"
-         id="tspan7737" /></text>
+         id="tspan7737"
+         transform="matrix(-1,0,0,1,4083.8673,0)" /></text>
     <text
        xml:space="preserve"
        style="font-size:8.71167374px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans Oblique"
@@ -10543,17 +10556,20 @@
          sodipodi:role="line"
          x="814.53357"
          y="195.31482"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB">By Entypo (http://www.entypo.com/)</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#808080"
+         transform="matrix(-1,0,0,1,4083.8673,0)">By Entypo (http://www.entypo.com/)</tspan><tspan
          id="tspan7743"
          sodipodi:role="line"
          x="814.53357"
          y="206.20441"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#808080"
+         transform="matrix(-1,0,0,1,4083.8673,0)" /><tspan
          id="tspan7745"
          sodipodi:role="line"
          x="814.53357"
          y="217.09401"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB" /></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#808080"
+         transform="matrix(-1,0,0,1,4083.8673,0)" /></text>
     <g
        id="g9039"
        transform="matrix(0.54633572,0,0,0.54633572,5177.0233,-1319.0673)">
@@ -19014,7 +19030,8 @@
          id="tspan4173-8-09"
          x="811.84088"
          y="238.95227"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB">Apple minimal wireframes mockups</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
+         transform="matrix(-1,0,0,1,4083.8673,0)">Apple minimal wireframes mockups</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text15022"
@@ -19022,11 +19039,12 @@
        x="814.74689"
        style="font-size:8.71167374px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans Oblique"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#808080"
          y="318.36865"
          x="814.74689"
          sodipodi:role="line"
-         id="tspan15024">By Rafi (@graphicsfuel) http://www.graphicsfuel.com/2013/03/apple-products-minimal-wireframe-kit-psd/</tspan></text>
+         id="tspan15024"
+         transform="matrix(-1,0,0,1,4083.8673,0)">By Rafi (@graphicsfuel) http://www.graphicsfuel.com/2013/03/apple-products-minimal-wireframe-kit-psd/</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m 806.10236,308.26765 186.02362,0"
@@ -19043,7 +19061,8 @@
          id="tspan4173-8-9"
          x="811.84088"
          y="362.91287"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB">Twitter default sizes</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
+         transform="matrix(-1,0,0,1,4083.8673,0)">Twitter default sizes</tspan></text>
     <path
        sodipodi:type="arc"
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
@@ -19088,25 +19107,28 @@
       <text
          sodipodi:linespacing="125%"
          id="text3263-2"
-         y="374.8783"
-         x="3402.252"
-         style="font-size:27.39118195px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans Oblique"
+         y="368.89917"
+         x="3402.3191"
+         style="font-style:oblique;font-weight:normal;font-size:19.75699234px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
-           y="374.8783"
-           x="3402.252"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
+           y="368.89917"
+           x="3402.3191"
            id="tspan3265-4"
-           sodipodi:role="line">Twitter profile picture</tspan><tspan
+           sodipodi:role="line"
+           transform="matrix(-1,0,0,1,7645.0609,0)">Twitter profile picture</tspan><tspan
            id="tspan4077-5"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
-           y="409.11728"
-           x="3402.252"
-           sodipodi:role="line">(recommended size, will</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
+           y="403.13815"
+           x="3402.3191"
+           sodipodi:role="line"
+           transform="matrix(-1,0,0,1,7645.0609,0)">(recommended size, will</tspan><tspan
            id="tspan4304-5"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
-           y="443.35626"
-           x="3402.252"
-           sodipodi:role="line">get resized to 200 by 200)</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
+           y="437.37714"
+           x="3402.3191"
+           sodipodi:role="line"
+           transform="matrix(-1,0,0,1,7645.0609,0)">get resized to 200 by 200)</tspan></text>
     </g>
     <image
        style="display:inline"
@@ -19126,20 +19148,22 @@
     <text
        sodipodi:linespacing="125%"
        id="text3271-1"
-       y="1695.2775"
-       x="2169.0884"
-       style="font-size:55.10057831px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans Oblique"
+       y="1687.589"
+       x="2190.2905"
+       style="font-style:oblique;font-weight:normal;font-size:67.13352203px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
-         y="1695.2775"
-         x="2169.0884"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
+         y="1687.589"
+         x="2190.2905"
          id="tspan3273-52"
-         sodipodi:role="line">Recommended Twitter cover size</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
-         y="1764.1532"
-         x="2169.0884"
          sodipodi:role="line"
-         id="tspan4323-7">Gets resized to 1263 by 421 pixels</tspan></text>
+         transform="matrix(-1,0,0,1,4083.8673,0)">Recommended Twitter cover size</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#808080"
+         y="1771.5059"
+         x="2190.2905"
+         sodipodi:role="line"
+         id="tspan4323-7"
+         transform="matrix(-1,0,0,1,4083.8673,0)">Gets resized to 1263 by 421 pixels</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:35px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Oblique"
@@ -19150,8 +19174,9 @@
          sodipodi:role="line"
          x="2689.0984"
          y="1913.2908"
-         style="font-size:35px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
-         id="tspan3287-1">1500 px</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
+         id="tspan3287-1"
+         transform="matrix(-1,0,0,1,4083.8673,0)">1500 px</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#StopL);marker-mid:none;marker-end:url(#StopL)"
        d="m 2141.5047,1920.4724 1206.9205,0"
@@ -19174,10 +19199,11 @@
            style="font-size:36.96320724px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Oblique"
            xml:space="preserve"><tspan
              id="tspan4110-1"
-             style="font-size:101.55843353px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:101.55843353px;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
              y="-1742.014"
              x="121.62754"
-             sodipodi:role="line">500 px</tspan></text>
+             sodipodi:role="line"
+             transform="matrix(1,0,0,-1,0,-11663.444)">500 px</tspan></text>
         <path
            inkscape:connector-curvature="0"
            id="path4112-8"
@@ -19199,25 +19225,28 @@
       <text
          sodipodi:linespacing="125%"
          id="text3279-6"
-         y="1547.0857"
-         x="2742.2603"
-         style="font-size:41.99932098px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans Oblique"
+         y="1540.0499"
+         x="2742.3137"
+         style="font-style:oblique;font-weight:normal;font-size:32.87384033px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
-           y="1547.0857"
-           x="2742.2603"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
+           y="1540.0499"
+           x="2742.3137"
            id="tspan3281-1"
-           sodipodi:role="line">Real Twitter cover size</tspan><tspan
+           sodipodi:role="line"
+           transform="matrix(-1,0,0,1,2217.0397,0)">Real Twitter cover size</tspan><tspan
            id="tspan6321-4"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
-           y="1599.5848"
-           x="2742.2603"
-           sodipodi:role="line">Psst! Unless you know what you are doing you probably</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#808080"
+           y="1592.5491"
+           x="2742.3137"
+           sodipodi:role="line"
+           transform="matrix(-1,0,0,1,2217.0397,0)">Psst! Unless you know what you are doing you probably</tspan><tspan
            id="tspan6323-2"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
-           y="1652.084"
-           x="2742.2603"
-           sodipodi:role="line">want to use the the other one!</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#808080"
+           y="1645.0482"
+           x="2742.3137"
+           sodipodi:role="line"
+           transform="matrix(-1,0,0,1,2217.0397,0)">want to use the the other one!</tspan></text>
       <g
          transform="matrix(0.92357372,0,0,0.92357372,2971.5236,3369.4363)"
          id="g4936-9"
@@ -19236,8 +19265,9 @@
                sodipodi:role="line"
                x="217.14056"
                y="-1728.1587"
-               style="font-size:32.48251724px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
-               id="tspan4942-5">1263 px</tspan></text>
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.48251724px;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
+               id="tspan4942-5"
+               transform="matrix(-1,0,0,1,-4034.3369,0)">1263 px</tspan></text>
           <path
              style="fill:none;stroke:#000000;stroke-width:3.24825191;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#StopL);marker-mid:none;marker-end:url(#StopL)"
              d="m -334.00768,-1720.9771 1206.92052,0"
@@ -19262,10 +19292,11 @@
              style="font-size:36.96320724px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Oblique"
              xml:space="preserve"><tspan
                id="tspan4959-3"
-               style="font-size:127.35234833px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:127.35234833px;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
                y="-1756.49"
                x="84.082771"
-               sodipodi:role="line">500 px</tspan></text>
+               sodipodi:role="line"
+               transform="matrix(1,0,0,-1,0,-26382.195)">500 px</tspan></text>
           <path
              inkscape:connector-curvature="0"
              id="path4961-4"
@@ -19287,26 +19318,29 @@
          y="2530.4023" />
       <text
          xml:space="preserve"
-         style="font-size:27.39118195px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans Oblique"
-         x="919.828"
-         y="2569.1526"
+         style="font-style:oblique;font-weight:normal;font-size:25.07001305px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+         x="919.84839"
+         y="2567.4751"
          id="text14968"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
-           x="919.828"
-           y="2569.1526"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
-           id="tspan14974">Twitter resize</tspan><tspan
+           x="919.84839"
+           y="2567.4751"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
+           id="tspan14974"
+           transform="matrix(-1,0,0,1,2503.9348,0)">Twitter resize</tspan><tspan
            sodipodi:role="line"
-           x="919.828"
-           y="2603.3916"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
-           id="tspan14985">profile picture</tspan><tspan
+           x="919.84839"
+           y="2601.7141"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
+           id="tspan14985"
+           transform="matrix(-1,0,0,1,2503.9348,0)">profile picture</tspan><tspan
            sodipodi:role="line"
-           x="919.828"
-           y="2637.6306"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
-           id="tspan14991">size</tspan></text>
+           x="919.84839"
+           y="2635.9531"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
+           id="tspan14991"
+           transform="matrix(-1,0,0,1,2503.9348,0)">size</tspan></text>
     </g>
     <g
        transform="translate(-1.9999577,-4.6108908)"
@@ -19334,8 +19368,9 @@
                  sodipodi:role="line"
                  x="1742.3617"
                  y="2300.3982"
-                 style="font-size:35px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
-                 id="tspan15957">400 px</tspan></text>
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
+                 id="tspan15957"
+                 transform="matrix(-1,0,0,1,4097.1975,0)">400 px</tspan></text>
             <path
                style="fill:none;stroke:#000000;stroke-width:5.99515438;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#StopL);marker-mid:none;marker-end:url(#StopL)"
                d="m -248.4554,-1720.9771 1035.81596,0"
@@ -19357,8 +19392,9 @@
                  sodipodi:role="line"
                  x="1742.3617"
                  y="2300.3982"
-                 style="font-size:35px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
-                 id="tspan15957-8">400 px</tspan></text>
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
+                 id="tspan15957-8"
+                 transform="matrix(1,0,0,-1,0,4787.0644)">400 px</tspan></text>
             <path
                style="fill:none;stroke:#000000;stroke-width:5.99515438;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#StopL);marker-mid:none;marker-end:url(#StopL)"
                d="m -248.4554,-1720.9771 1035.81596,0"
@@ -19390,7 +19426,8 @@
            id="tspan3251"
            x="5616.8574"
            y="-1809.0176"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB">Facebook cover image</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
+           transform="matrix(-1,0,0,1,11184.55,0)">Facebook cover image</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3253"
@@ -19398,11 +19435,12 @@
          x="5787.2896"
          style="font-size:13.24321651px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans Oblique"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
            y="-1749.0046"
            x="5787.2896"
            id="tspan3255"
-           sodipodi:role="line">851 by 315 pixels</tspan></text>
+           sodipodi:role="line"
+           transform="matrix(-1,0,0,1,11184.55,0)">851 by 315 pixels</tspan></text>
     </g>
     <g
        id="g16053">
@@ -19431,11 +19469,12 @@
          x="811.84088"
          style="font-size:24.48838234px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans Oblique"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Berlin Sans FB;-inkscape-font-specification:Berlin Sans FB"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode'"
            y="424.96802"
            x="811.84088"
            id="tspan4173-8-8"
-           sodipodi:role="line">Facebook default sizes</tspan></text>
+           sodipodi:role="line"
+           transform="matrix(-1,0,0,1,4083.8673,0)">Facebook default sizes</tspan></text>
       <g
          id="g16021"
          style="display:inline">
