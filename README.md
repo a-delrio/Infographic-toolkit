@@ -1,7 +1,7 @@
 Infographic-toolkit
 ===================
 
-The info-toolkit is a compilation of more than 800 elements to build infographics. Among all the items it includes:
+The infographic toolkit is a compilation of more than 800 elements to build infographics. Among all the items it includes:
 
  - More than 600 icons from different sources
  - World maps
@@ -9,4 +9,4 @@ The info-toolkit is a compilation of more than 800 elements to build infographic
  - People charts
  - The best free flat typefonts for infographics
  
-This file was edited in Inkscape.
+This file is meant to be edited using [Inkscape](https://inkscape.org/en/)
